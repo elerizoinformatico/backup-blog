@@ -7,7 +7,7 @@ date:   2023-09-08 15:30:27
 
 En un laboratorio de la Estación Espacial Internacional se ha logrado producir una materia exótica ultrafría que no es sólida, líquida, gas ni plasma. Este hito tecnológico permitirá investigar nuevos aspectos de la física fundamental con esta sustancia que se mueve entre el mundo **clásico** y el **cuántico**.
 
-![Formación de un condensado Bose-Einstein](/assets/img/FormacionCondensadoBose-Einstein.jpg.jpg)
+![Formación de un condensado Bose-Einstein](/assets/img/FormacionCondensadoBose-Einstein.jpg)
 <center>Inicio de la formación de un condensado de Bose–Einstein en la Estación Espacial Internacional</center>
 
 Un **condensado de Bose-Einstein** es un estado de la materia que se forma cuando un gas de bosones (uno de los dos tipos básicos de partículas elementales) se enfría cerca del cero absoluto (-273.15 °C o 0 kelvin). A esa temperatura tan bajísima los átomos se convierten en una entidad única con propiedades cuánticas.
