@@ -1,0 +1,43 @@
+# Title of your blog; shows in the header
+name: "El erizo Tobias"
+
+# Description of your content (will only be used on Google Search)
+description: "En este lugar tu código tampoco funciona"
+
+# Your name. Will show in your footer + sidebar
+author: "Tobias Nicolás"
+
+url: "https://elerizoinformatico.github.io/"
+baseurl: ""
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
+author-bio: "
+Soy el perro de la imagen. Es broma, mi nombre es Nicolás y este es mi blog. Aquí encontrarás temas relacionados al desarrollo de software e informática en general, aunque también podrías toparte con otras cosas interesantes."
+
+# Social Accounts (mine, as placeholders)
+
+#twitter: mx3m
+github: elerizoinformatico
+facebook: elerizoinformatico
+#instagram: m3xm
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain: m3xm.github.io
+ga_tracking_id: UA-47727049-1
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
