@@ -2,7 +2,7 @@
 layout: post
 title:  "Logran crear el quinto estado de la materia en el espacio"
 tags:   Article
-date:   2023-09-08 15:30:27
+date:   2023-08-10 15:30:27
 ---
 
 En un laboratorio de la Estación Espacial Internacional se ha logrado producir una materia exótica ultrafría que no es sólida, líquida, gas ni plasma. Este hito tecnológico permitirá investigar nuevos aspectos de la física fundamental con esta sustancia que se mueve entre el mundo **clásico** y el **cuántico**.
