@@ -47,7 +47,7 @@ Cabe destacar que Ruby no sólo es gratuito, también es libre para usarlo, copi
 * Tumblr
 * Twitter (originalmente)
 
-Hay que tener en cuenta que Ruby es un lenguaje de muy alta demanda en las Start-Ups.
+Además, Ruby es un lenguaje de muy alta demanda en las Start-Ups.
 
 ## ¿Por qué Ruby?
 
