@@ -42,3 +42,11 @@ Te invito a leer algunos artículos relacionados al tema:
 * [Las predicciones de Baba Vanga para 2024 siembran el temor en todo el planeta](https://www.levante-emv.com/vida-y-estilo/2023/06/27/baba-vanga-predicciones-2024-profecias-dv-89182537.html)
 * [No sólo tragedias: la predicción de Baba Vanga que sería una gran noticia en salud](https://www.eltiempo.com/cultura/gente/no-solo-tragedias-la-prediccion-de-baba-vanga-que-seria-una-gran-noticia-en-salud-771571)
 * [La única predicción de la "Nostradamus de los Balcanes" que todo el mundo quiere que se haga realidad](https://www.cronista.com/informacion-gral/la-unica-prediccion-de-la-nostradamus-de-los-balcanes-que-todo-el-mundo-quiere-que-se-haga-realidad/)
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>

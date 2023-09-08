@@ -36,3 +36,11 @@ Te invito a leer (o ver) algunos artículos relacionados al tema:
 * [Todo sobre Júpiter](https://spaceplace.nasa.gov/all-about-jupiter/sp/#:~:text=Tiene%20fuertes%20tormentas%20como%20la,tenues%20para%20verlos%20muy%20bien.)
 * [5 curiosidades sobre Júpiter, el planeta más grande del Sistema Solar](https://www.nationalgeographicla.com/espacio/2023/01/cinco-curiosidades-sobre-jupiter-el-planeta-mas-grande-del-sistema-solar)
 * [10 datos interesantes sobre el planeta Júpiter](https://www.youtube.com/watch?v=nRS_8hDBuBQ)
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>

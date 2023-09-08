@@ -28,3 +28,11 @@ Te invito a leer algunos artículos relacionados al tema:
 * [Nuevas pistas para desvelar el verdadero origen del agua en la Tierra](https://www.bbvaopenmind.com/ciencia/apuntes-cientificos/desvelar-origen-del-agua-en-la-tierra/)
 * [Un diamante revela oasis de agua en profundidades de la Tierra](https://www.agenciasinc.es/Noticias/Un-diamante-revela-oasis-de-agua-en-profundidades-extremas-de-la-Tierra)
 * [Cuál es el origen del agua en la Tierra según la ciencia](https://www.nationalgeographicla.com/medio-ambiente/2023/06/cual-es-el-origen-del-agua-en-la-tierra-segun-la-ciencia)
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>

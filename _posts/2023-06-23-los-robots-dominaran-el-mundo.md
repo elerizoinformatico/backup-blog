@@ -52,3 +52,11 @@ Te invito a leer algunos artículos relacionados al tema:
 * [Las leyes de la robótica](https://robotesfera.com/leyes-de-la-robotica)
 * [¿Dominarán los robots el mundo?](https://www.expansion.com/directivos/2016/07/13/57864c1346163f45198b45c2.html)
 * [¿Pueden los robots rebelarse contra la humanidad?](https://www.bbc.com/mundo/noticias/2012/11/121128_tecnologia_robots_revolucion_aa)
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -102,3 +102,11 @@ primo_recursivo(n)
 ```
 
 Espero que hayas aprendido todas las formas de determinar si un número es primo o no que aquí te muestro. Si tienes problemas con los operadores y funciones aquí utilizadas, te recomiendo visitar el tutorial oficial de python haciendo clic [aquí](https://docs.python.org/es/3/tutorial/).
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>

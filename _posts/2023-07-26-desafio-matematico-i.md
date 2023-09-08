@@ -15,3 +15,11 @@ x - y &= 95\\
 $$
 
 **Pista**: Te recomiendo hacer uso de los productos notables del álgebra.
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
