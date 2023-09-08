@@ -50,7 +50,7 @@ Te invito a leer algunos artículos relacionados al tema:
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
         issue-term="pathname"
-        theme="github-dark"
+        theme="icy-dark"
         crossorigin="anonymous"
         async>
 </script>
