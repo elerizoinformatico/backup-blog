@@ -1,2 +1,2 @@
 # elerizoinformatico.github.io
- Página web
+Blog personal El Erizo Informático
