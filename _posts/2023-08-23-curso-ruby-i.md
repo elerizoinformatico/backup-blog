@@ -31,7 +31,7 @@ Cabe destacar que Ruby no sólo es gratuito, también es libre para usarlo, copi
 ## El legado de Ruby
 
 * Existen múltiples implementaciones del lenguaje (ya sea con C, Java, etc.).
-* Ha inspirado la creación de otros lenguajes como **Elixir** o **CoffeeScript**, lo que quiere decir que este lenguaje está tan bien diseñado que otras tecnologías quieren replicar esas ventajas.
+* Ha inspirado la creación de otros lenguajes como Elixir o CoffeeScript, lo que quiere decir que este lenguaje está tan bien diseñado que otras tecnologías quieren replicar esas ventajas.
 * Está hecho principalmente para crear aplicaciones web, logrando su popularidad gracias a **Ruby on Rails** (Framework que apareció hace unos 10 años atrás aproximadamente).
 * Existen utilidades de la terminal escritas en Ruby como SASS o HomeBrew.
 * Se puede utilizar Ruby para crear aplicaciones móviles nativas con RubyMotion, una herramienta que compila el código a las distintas plataformas existentes (iOS, Android, etc.).
