@@ -23,6 +23,8 @@ C:\Users\elerizoinformatico>ruby -v
 ruby 3.2.2 (2023-03-30 revision e51014f9c0) [x64-mingw-ucrt]
 ```
 
+Si el mensaje que visualizas es distinto o si la terminal te arrojó algún tipo de error, no dudes en escribirme en la caja de comentarios.
+
 ## Instalación en Linux
 
 Pendiente.
