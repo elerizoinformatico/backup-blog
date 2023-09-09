@@ -14,7 +14,7 @@ Por último, te enseñaré a utilizar la famosa **Interactive Ruby Shell** (Cons
 En Windows (cualquiera sea la versión que tengas) es bastante sencilla la instalación ya que solo debemos acceder a la página [rubyinstaller](https://rubyinstaller.org/) desde cualquier navegador y descargar la última versión disponible desde la pestaña **downloads**. Se descargará un archivo `.exe` que debemos ejecutar y luego seguir los pasos respectivos.
 
 ![Instalación de Ruby en Windows](/assets/img/InstalacionRubyWin.png)
-<center>La última versión disponible de Ruby (sept. de 2023) es la 3.2.2</center>
+<center>La versión más actual siempre se ubica en la primera posición (se recomienda descargar el archivo que incluye el devkit)</center>
 
 Para corroborar que la instalación se realizó de forma exitosa, abrimos una terminal (`cmd`) y escribimos `ruby -v` o `ruby --version`:
 
