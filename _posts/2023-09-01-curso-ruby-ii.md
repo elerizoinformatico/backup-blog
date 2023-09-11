@@ -27,8 +27,54 @@ Si el mensaje que visualizas es distinto o si la terminal te arrojó algún tipo
 
 ## Instalación en Linux
 
-Pendiente.
+Para el caso de Linux, te recomiendo utilizar alguna versión de **Ubuntu** ya que es una distribución fácil de usar y además, cuenta con mucha documentación.
+
+Lo primero que debemos hacer es instalar las dependencias para compilar Ruby, para ello abrimos una terminal (`Ctrl + Alt + T`) y ejecutamos los siguientes comandos:
+
+```
+sudo apt-get update
+sudo apt-get install git-core zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common libffi-dev
+```
+
+Mediante un administrador de versiones llamado **ASDF** instalaremos el lenguaje. Aunque existen otras formas de instalar Ruby (`rbenv` o `rvm`), te recomiendo ASDF ya que podemos gestionar la instalación de otros lenguajes como por ejemplo `Node.js`.
+
+```
+cd
+git clone https://github.com/excid3/asdf.git ~/.asdf
+echo '. "$HOME/.asdf/asdf.sh"' >> ~/.bashrc
+echo '. "$HOME/.asdf/completions/asdf.bash"' >> ~/.bashrc
+echo 'legacy_version_file = yes' >> ~/.asdfrc
+echo 'export EDITOR="code --wait"' >> ~/.bashrc
+exec $SHELL
+asdf plugin add ruby
+```
+
+Instalamos la versión actual (3.2.2):
+
+```
+asdf install ruby 3.2.2
+asdf global ruby 3.2.2
+```
+
+Por último, confirmamos que la versión predeterminada coincida con la versión que acabamos de instalar:
+
+```
+which ruby
+#=> /home/elerizoinformatico/.asdf/shims/ruby
+ruby -v
+#=> 3.2.2
+```
+
+Tener en cuenta que la instalación se está realizando en un equipo que cuenta con la versión **20.04** de Ubuntu por lo que, si tienes una versión distinta, te aconsejo visitar la página [GoRails](https://gorails.com/setup/ubuntu/22.04) y seleccionar la correcta.
 
 ## Instalación en MacOS
 
 Pendiente.
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
