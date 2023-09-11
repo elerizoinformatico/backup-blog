@@ -23,8 +23,6 @@ C:\Users\elerizoinformatico>ruby -v
 ruby 3.2.2 (2023-03-30 revision e51014f9c0) [x64-mingw-ucrt]
 ```
 
-Si el mensaje que visualizas es distinto o si la terminal te arrojó algún tipo de error, no dudes en escribirme en la caja de comentarios.
-
 ## Instalación en Linux
 
 Para el caso de Linux, te recomiendo utilizar alguna versión de **Ubuntu** ya que es una distribución fácil de usar y además, cuenta con mucha documentación.
@@ -98,6 +96,8 @@ ruby -v
 ```
 
 Tener en cuenta que la instalación se está realizando en un equipo que cuenta con la versión **13** por lo que, si tienes una versión distinta, te aconsejo visitar la página [GoRails](https://gorails.com/setup/macos/13-ventura) y seleccionar la correcta.
+
+Si durante la instalación de Ruby (en cualquier sistema operativo) tienes dudas, consultas o simplemente la terminal te arrojó algún tipo de error, no dudes en escribirme en la caja de comentarios.
 
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
