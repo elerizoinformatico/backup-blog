@@ -56,7 +56,7 @@ asdf install ruby 3.2.2
 asdf global ruby 3.2.2
 ```
 
-Por último, confirmamos que la versión predeterminada coincida con la versión que acabamos de instalar:
+Por último, verificamos que la versión predeterminada coincida con la que acabamos de instalar:
 
 ```
 which ruby
@@ -69,7 +69,35 @@ Tener en cuenta que la instalación se está realizando en un equipo que cuenta 
 
 ## Instalación en MacOS
 
-Pendiente.
+Para MacOS también consideraremos **ASDF**:
+
+```
+cd
+git clone https://github.com/excid3/asdf.git ~/.asdf
+echo '. "$HOME/.asdf/asdf.sh"' >> ~/.zshrc
+echo '. "$HOME/.asdf/completions/asdf.bash"' >> ~/.zshrc
+echo 'legacy_version_file = yes' >> ~/.asdfrc
+exec $SHELL
+asdf plugin add ruby
+```
+
+Instalación de la versión actual (3.2.2):
+
+```
+asdf install ruby 3.2.2
+asdf global ruby 3.2.2
+```
+
+Por último, verificamos que la versión predeterminada coincida con la que acabamos de instalar:
+
+```
+which ruby
+#=> /home/elerizoinformatico/.asdf/shims/ruby
+ruby -v
+#=> 3.2.2
+```
+
+Tener en cuenta que la instalación se está realizando en un equipo que cuenta con la versión **13** por lo que, si tienes una versión distinta, te aconsejo visitar la página [GoRails](https://gorails.com/setup/macos/13-ventura) y seleccionar la correcta.
 
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
