@@ -70,6 +70,16 @@ A las soluciones de una ecuación de segundo grado se les conoce también como *
 
 **Pura:** Para este tipo de ecuaciones, basta con despejar la incógnita ($$x^2$$) y aplicar raíz cuadrada para obtener las soluciones.
 
+Ejemplo:
+
+$$
+\begin{align}
+2x^2 - 72 &= 0\\
+\end{align}
+$$
+
+Si despejamos `x` tenemos que:
+
 $$
 \begin{align}
 2x^2 - 72 &= 0\\
