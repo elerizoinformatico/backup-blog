@@ -205,4 +205,4 @@ x^2 + (a + b)x + ab &= (x + a)(x + b)
 \end{align}
 $$
 
-Con esto aclarado, debemos encontrar entonces dos números que multiplicados nos de `6`y que al sumarlos nos de `-5`.
+Con esto aclarado, debemos encontrar entonces dos números que multiplicados nos de `6` y que al sumarlos nos de `-5`.
