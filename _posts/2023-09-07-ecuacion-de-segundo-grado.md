@@ -205,7 +205,8 @@ x^2 + (a + b)x + ab &= (x + a)(x + b)
 \end{align}
 $$
 
-Con esto aclarado, debemos encontrar entonces dos números que multiplicados nos de `6` y que al sumarlos nos de `-5`.
+Con esto aclarado, debemos encontrar entonces dos números que al multiplicarlos nos de `6` y que al sumarlos nos de `-5`.
 
 Posibles opciones:
 * `6` y `1`: $$6 \cdot 1 = 6$$ y $$6 + 1 = 7$$. Por lo tanto, estos no son los números que buscamos.
+* `2` y `3`: $$2 \cdot 3 = 6$$ y $$2 + 3 = 5$$. Por lo tanto, estos tampoco son los números que buscamos.
