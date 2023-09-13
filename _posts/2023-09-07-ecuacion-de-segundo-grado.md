@@ -117,7 +117,13 @@ $$
 \end{align}
 $$
 
-Otra forma de resolver este tipo de ecuaciones es utilizar el producto notable **suma por su diferencia**:
+Otra forma de resolver este tipo de ecuaciones es utilizando el producto notable **suma por su diferencia**:
+
+$$
+\begin{align}
+a^2 - b^2 &= (a + b)(a - b)
+\end{align}
+$$
 
 $$
 \begin{align}
@@ -181,4 +187,22 @@ Por lo tanto, las soluciones o raíces para la ecuación serán `0` y `3`.
 
 ### **Resolución de ecuaciones completas**
 
-Pendiente.
+Para este tipo de ecuaciones podemos **factorizar** o bien, utilizar la **fórmula general** de resolución (la cual veremos más adelante en detalle).
+
+Ejemplo:
+
+$$
+\begin{align}
+x^2 - 5x + 6 &= 0
+\end{align}
+$$
+
+Para resolver esta ecuación mediante la **factorización** debemos recordar el **producto de dos binomios con término común**
+
+$$
+\begin{align}
+x^2 + (a + b)x + ab &= (x + a)(x + b)
+\end{align}
+$$
+
+Con esto aclarado, debemos encontrar entonces dos números que multiplicados nos de `6`y que al sumarlos nos de `-5`.
