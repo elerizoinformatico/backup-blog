@@ -197,7 +197,7 @@ x^2 - 5x + 6 &= 0
 \end{align}
 $$
 
-Para resolver esta ecuación mediante la **factorización** debemos recordar el **producto de dos binomios con término común**
+Para resolverla mediante la **factorización** debemos recordar el **producto de dos binomios con término común**:
 
 $$
 \begin{align}
@@ -206,3 +206,6 @@ x^2 + (a + b)x + ab &= (x + a)(x + b)
 $$
 
 Con esto aclarado, debemos encontrar entonces dos números que multiplicados nos de `6` y que al sumarlos nos de `-5`.
+
+Posibles opciones:
+* `6` y `1`: $$6 \cdot 1 = 6$$ y $$6 + 1 = 7$$. Por lo tanto, estos no son los números que buscamos.
