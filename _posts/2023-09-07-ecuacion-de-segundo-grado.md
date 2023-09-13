@@ -24,18 +24,8 @@ Donde:
 
 Ejemplos:
 
-$$
-\begin{align}
-2x^2 + 5x + 3 &= 0
-\end{align}
-$$
+![Ejemplos ecuación cuadrática](/assets/img/EjemplosEcuacionCuadratica.png)
 
-Los valores de `a`, `b` y `c` son `2`, `5` y `3` respectivamente
+## Clasificación
 
-$$
-\begin{align}
--x^2 + x + 1 &= 0
-\end{align}
-$$
-
-Los valores de `a`, `b` y `c` son `-1`, `1` y `1` respectivamente
+Una ecuación cuadrática se puede clasificar en dos grupos:
