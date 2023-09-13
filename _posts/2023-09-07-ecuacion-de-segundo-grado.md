@@ -144,6 +144,41 @@ x &= -6
 \end{align}
 $$
 
+**Binomial:** Para este tipo de ecuaciones, debemos factorizar por `x` para que de esta forma la ecuación se convierta en un producto de dos términos lineales. En estas ecuaciones, una de sus soluciones siempre será igual a `0`.
+
+Ejemplo:
+
+$$
+\begin{align}
+x^2 - 3x &= 0\\
+\end{align}
+$$
+
+Factorizando por `x` tenemos que:
+
+$$
+\begin{align}
+x(x - 3) &= 0\\
+\end{align}
+$$
+
+Y si separamos los términos líneales nos queda:
+
+$$
+\begin{align}
+x &= 0
+\end{align}
+$$
+
+$$
+\begin{align}
+x - 3 &= 0\\
+x &= 3
+\end{align}
+$$
+
+Por lo tanto, las soluciones o raíces para la ecuación serán `0` y `3`.
+
 ### **Resolución de ecuaciones completas**
 
 Pendiente.
