@@ -102,7 +102,7 @@ Lo que significa que nuestras soluciones o raíces son `6` y `-6`. Realicemos un
 $$
 \begin{align}
 2x^2 - 72 &= 0\\
-2(6^2) - 72 &= 0\\
+2 \cdot (6^2) - 72 &= 0\\
 72 - 72 &= 0\\
 0 &= 0
 \end{align}
@@ -111,7 +111,7 @@ $$
 $$
 \begin{align}
 2x^2 - 72 &= 0\\
-2((-6)^2) - 72 &= 0\\
+2 \cdot ((-6)^2) - 72 &= 0\\
 72 - 72 &= 0\\
 0 &= 0
 \end{align}
