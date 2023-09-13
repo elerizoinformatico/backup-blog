@@ -82,7 +82,7 @@ Si despejamos `x` tenemos que:
 
 $$
 \begin{align}
-2x^2 - 72 &= 0\\
+\frac{2x^2}{2} - \frac{72}{2} &= 0
 x^2 - 36 &= 0\\
 x^2 &= 36
 \end{align}
