@@ -30,7 +30,7 @@ Ejemplos:
 
 Una ecuación cuadrática se puede clasificar en dos grupos:
 
-### Completa
+### 1. Completa
 
 Los coeficientes `a`, `b` y `c` son distintos de `0`, es decir, la ecuación tiene la forma:
 
@@ -40,7 +40,7 @@ ax^2 + bx + c &= 0
 \end{align}
 $$
 
-### Incompleta
+### 2. Incompleta
 
 Al menos uno de los coeficientes `b` y `c` es igual a `0`. En este grupo, encontraremos dos subgrupos:
 
