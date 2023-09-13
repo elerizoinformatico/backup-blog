@@ -42,14 +42,14 @@ $$
 
 ### Incompleta
 
-Al menos uno de los coeficientes `b` y `c` es igual a `0`. En este grupo nos encontramos con 2 subgrupos:
+Al menos uno de los coeficientes `b` y `c` es igual a `0`. En este grupo, encontraremos dos subgrupos:
 
 **Pura:** El coeficiente `b` es igual a `0`, es decir, la ecuación tiene la forma:
 
 $$
-\begin{align}
+\begin{left}
 ax^2 + c &= 0
-\end{align}
+\end{left}
 $$
 
 **Binomial:** El coeficiente `c` es igual a `0`, es decir, la ecuación tiene la forma:
