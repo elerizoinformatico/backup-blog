@@ -47,9 +47,9 @@ Al menos uno de los coeficientes `b` y `c` es igual a `0`. En este grupo, encont
 **Pura:** El coeficiente `b` es igual a `0`, es decir, la ecuación tiene la forma:
 
 $$
-\begin{align: left}
+\begin{align}
 ax^2 + c &= 0
-\end{align: left}
+\end{align}
 $$
 
 **Binomial:** El coeficiente `c` es igual a `0`, es decir, la ecuación tiene la forma:
@@ -65,3 +65,11 @@ $$
 Lo primero que debemos tener en cuenta es que en una ecuación cuadrática tendremos **2 soluciones**, las cuales pueden ser **distintas** o **iguales**.
 
 A las soluciones de una ecuación de segundo grado se les conoce también como **raíces** o **ceros**.
+
+### Resolución de ecuaciones incompletas
+
+Pendiente.
+
+### Resolución de ecuaciones completas
+
+Pendiente.
