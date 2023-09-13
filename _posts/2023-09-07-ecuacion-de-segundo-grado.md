@@ -24,5 +24,8 @@ Donde:
 
 Ejemplos:
 
-$$2x^2 + 5x + 3 &= 0$$ Los valores de `a`, `b` y `c` son `2`, `5` y `3` respectivamente
-$$-x^2 + x + 1 &= 0$$ Los valores de `a`, `b` y `c` son `-1`, `1` y `1` respectivamente
+$$2x^2 + 5x + 3 &= 0$$
+Los valores de `a`, `b` y `c` son `2`, `5` y `3` respectivamente
+
+$$-x^2 + x + 1 &= 0$$
+Los valores de `a`, `b` y `c` son `-1`, `1` y `1` respectivamente
