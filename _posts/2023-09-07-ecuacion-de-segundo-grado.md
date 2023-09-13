@@ -5,7 +5,7 @@ tags:   Math
 date:   2023-09-07 12:19:06
 ---
 
-Una ecuación es de **segundo grado** o **cuadrática** si el exponente de la incógnita es 2 (en otras palabras, \`x^2\`)
+Una ecuación es de **segundo grado** o **cuadrática** si el exponente de la incógnita es 2 (en otras palabras, $$x^2$$)
 
 ## Forma estándar
 
@@ -18,6 +18,6 @@ ax^2 + bx + c &= 0
 $$
 
 Donde:
-* `a`, `b` y `c` son valores conocidos (también se les conoce como coeficientes)
+* `a`, `b` y `c` son valores conocidos (también llamados coeficientes)
 * `a` no puede ser igual a `0` ($$a \neq 0$$)
 * `x` es la incógnita (el valor que estamos buscando)
