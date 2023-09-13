@@ -83,13 +83,43 @@ Si despejamos `x` tenemos que:
 $$
 \begin{align}
 2x^2 - 72 &= 0\\
-x^2 &= 36\\
-(\sqrt{x^2}) &= \pm \sqrt{36}\\
+x^2 - 36 &= 0\\
+x^2 &= 36
+\end{align}
+$$
+
+Y aplicando raíz cuadrada nos queda:
+
+$$
+\begin{align}
+\sqrt{x^2} &= \pm \sqrt{36}\\
 x = \pm 6
 \end{align}
 $$
 
+Lo que significa que nuestras soluciones o raíces son `6` y `-6`. Realicemos una comprobación:
+
+$$
+\begin{align}
+2x^2 - 72 &= 0\\
+2(6^2) - 72 &= 0\\
+72 - 72 &= 0\\
+0 &= 0
+\end{align}
+$$
+
+$$
+\begin{align}
+2x^2 - 72 &= 0\\
+2((-6)^2) - 72 &= 0\\
+72 - 72 &= 0\\
+0 &= 0
+\end{align}
+$$
+
 Otra forma de resolver este tipo de ecuaciones es utilizar el producto notable **suma por su diferencia**:
+
+Pendiente.
 
 ### **Resolución de ecuaciones completas**
 
