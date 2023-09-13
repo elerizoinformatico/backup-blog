@@ -24,6 +24,15 @@ Donde:
 
 Ejemplos:
 
-| <!-- --> | <!-- --> |
-|:---:|:---:|
-| $$2x^2 + 5x + 3 &= 0$$ | Los valores de `a`, `b` y `c` son `2`, `5` y `3` respectivamente | 
+<table class="default">
+  <tr>
+    <td>$$2x^2 + 5x + 3 &= 0$$</td>
+    <td>Celda 2</td>
+    <td>Celda 3</td>
+  </tr>
+  <tr>
+    <td>Los valores de `a`, `b` y `c` son `2`, `5` y `3` respectivamente</td>
+    <td>Celda 5</td>
+    <td>Celda 6</td>
+  </tr>
+</table>
