@@ -47,9 +47,9 @@ Al menos uno de los coeficientes `b` y `c` es igual a `0`. En este grupo, encont
 **Pura:** El coeficiente `b` es igual a `0`, es decir, la ecuación tiene la forma:
 
 $$
-\begin{align left}
+\begin{align: left}
 ax^2 + c &= 0
-\end{align left}
+\end{align: left}
 $$
 
 **Binomial:** El coeficiente `c` es igual a `0`, es decir, la ecuación tiene la forma:
