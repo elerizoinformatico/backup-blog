@@ -21,3 +21,9 @@ Donde:
 * `a`, `b` y `c` son valores conocidos (también llamados coeficientes)
 * `a` no puede ser igual a `0` ($$a \neq 0$$)
 * `x` es la incógnita (el valor que estamos buscando)
+
+Ejemplos:
+
+| <!-- --> | <!-- --> |
+|:---:|:---:|
+| $$2x^2 + 5x + 3 &= 0$$ | Los valores de `a`, `b` y `c` son `2`, `5` y `3` respectivamente | 
