@@ -119,7 +119,30 @@ $$
 
 Otra forma de resolver este tipo de ecuaciones es utilizar el producto notable **suma por su diferencia**:
 
-Pendiente.
+$$
+\begin{align}
+\frac{2x^2}{2} - \frac{72}{2} &= 0\\
+x^2 - 36 &= 0\\
+x^2 - 6^2 &= 0\\
+(x - 6)(x + 6) &= 0
+\end{align}
+$$
+
+De esta forma, obtendremos dos ecuaciones lineales:
+
+$$
+\begin{align}
+x - 6 &= 0\\
+x &= 6
+\end{align}
+$$
+
+$$
+\begin{align}
+x + 6 &= 0\\
+x &= -6
+\end{align}
+$$
 
 ### **Resolución de ecuaciones completas**
 
