@@ -93,11 +93,11 @@ Y aplicando raíz cuadrada nos queda:
 $$
 \begin{align}
 \sqrt{x^2} &= \pm \sqrt{36}\\
-x = \pm 6
+x &= \pm 6
 \end{align}
 $$
 
-Lo que significa que nuestras soluciones o raíces son `6` y `-6`. Realicemos una comprobación:
+Lo que significa que las **soluciones** o **raíces** de la ecuación son `6` y `-6`. Realicemos una comprobación:
 
 $$
 \begin{align}
