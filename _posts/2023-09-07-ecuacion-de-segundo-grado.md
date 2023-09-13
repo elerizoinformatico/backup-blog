@@ -68,7 +68,18 @@ A las soluciones de una ecuación de segundo grado se les conoce también como *
 
 ### **Resolución de ecuaciones incompletas**
 
-Pendiente.
+**Pura:** Para este tipo de ecuaciones, basta con despejar la incógnita ($$x^2$$) y aplicar raíz cuadrada para obtener las soluciones.
+
+$$
+\begin{align}
+2x^2 - 72 &= 0\\
+x^2 &= 36\\
+(\sqrt{x^2}) &= \pm \sqrt{36}\\
+x = \pm 6
+\end{align}
+$$
+
+Otra forma de resolver este tipo de ecuaciones es utilizar el producto notable **suma por su diferencia**:
 
 ### **Resolución de ecuaciones completas**
 
