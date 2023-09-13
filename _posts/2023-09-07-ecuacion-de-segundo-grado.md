@@ -30,7 +30,7 @@ Ejemplos:
 
 Una ecuación cuadrática se puede clasificar en dos grupos:
 
-### 1. Completa
+### **Completa**
 
 Los coeficientes `a`, `b` y `c` son distintos de `0`, es decir, la ecuación tiene la forma:
 
@@ -40,7 +40,7 @@ ax^2 + bx + c &= 0
 \end{align}
 $$
 
-### 2. Incompleta
+### **Incompleta**
 
 Al menos uno de los coeficientes `b` y `c` es igual a `0`. En este grupo, encontraremos dos subgrupos:
 
@@ -66,10 +66,10 @@ Lo primero que debemos tener en cuenta es que en una ecuación cuadrática tendr
 
 A las soluciones de una ecuación de segundo grado se les conoce también como **raíces** o **ceros**.
 
-### Resolución de ecuaciones incompletas
+### **Resolución de ecuaciones incompletas**
 
 Pendiente.
 
-### Resolución de ecuaciones completas
+### **Resolución de ecuaciones completas**
 
 Pendiente.
