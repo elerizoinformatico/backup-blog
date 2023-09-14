@@ -28,3 +28,11 @@ Quizás la procedencia más curiosa es la de los apellidos que terminan en **ez*
 Así mismo ocurre en otros idiomas: **Johnson** es hijo de John en inglés (John-son); **MacArthur** es hijo de Arthur en escocés; **Martini** es hijo de Martín en italiano.
 
 Es así como, poco a poco, durante la Edad Media, comienzan a surgir los apellidos, cuya finalidad era diferenciar a una persona de la otra. Con el tiempo, estos apellidos tomaron un carácter hereditario y pasaron de generación en generación con el propósito de identificar no solo personas, sino familias.
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
