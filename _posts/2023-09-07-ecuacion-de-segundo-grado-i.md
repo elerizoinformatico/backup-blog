@@ -217,6 +217,7 @@ Por lo tanto, la ecuación $$x^2 - 5x + 6 = 0$$ podemos escribirla como:
 
 $$
 \begin{align}
+x^2 + (-2 + -3)x + ((-2) \cdot (-3)) &= 0\\
 (x - 2)(x - 3) &= 0
 \end{align}
 $$
