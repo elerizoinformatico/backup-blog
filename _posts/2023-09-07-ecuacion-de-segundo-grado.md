@@ -208,5 +208,33 @@ $$
 Con esto aclarado, debemos encontrar entonces dos números que al multiplicarlos nos de `6` y que al sumarlos nos de `-5`.
 
 Posibles opciones:
-* `6` y `1`: $$6 \cdot 1 = 6$$ y $$6 + 1 = 7$$. Por lo tanto, estos no son los números que buscamos.
-* `2` y `3`: $$2 \cdot 3 = 6$$ y $$2 + 3 = 5$$. Por lo tanto, estos tampoco son los números que buscamos.
+* **$$6$$ y $$1$$**: $$6 \cdot 1 = 6$$ y $$6 + 1 = 7$$. Por lo tanto, $$6$$ y $$1$$ no son los números que buscamos.
+* **$$2$$ y $$3$$**: $$2 \cdot 3 = 6$$ y $$2 + 3 = 5$$. Por lo tanto, $$2$$ y $$3$$ no son los números que buscamos.
+* **$$2$$ y $$-3$$**: $$2 \cdot (-3) = -6$$ y $$2 + (-3) = -1$$. Por lo tanto, $$2$$ y $$-3$$ no son los números que buscamos.
+* **$$-2$$ y $$-3$$**: $$(-2) \cdot (-3) = 6$$ y $$(-2) + (-3) = -5$$. Por lo tanto, $$-2$$ y $$-3$$ **si** son los números que buscamos.
+
+Por lo tanto, la ecuación $$x^2 - 5x + 6 &= 0$$ podemos escribirla como:
+
+$$
+\begin{align}
+(x - 2)(x - 3) &= 0
+\end{align}
+$$
+
+Donde sus soluciones o raíces serán:
+
+$$
+\begin{align}
+x - 2 &= 0\\
+x &= 2
+\end{align}
+$$
+
+$$
+\begin{align}
+x - 3 &= 0\\
+x &= 3
+\end{align}
+$$
+
+Ejercicios:
