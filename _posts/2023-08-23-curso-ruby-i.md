@@ -57,7 +57,7 @@ Te recomiendo utilizar este lenguaje si:
 * Te importa la expresividad.
 * Quieres un lenguaje flexible.
 * No te gusta repetir código (**Don't Repeat Yourself**, lo que en español significa *No te repitas*, es decir, escribir menos código y que el mantenimiento sea más práctico).
-* Quieres ser parte de una comunidad activa (Ruby tiene documentación, tutoriales y un largo etc. activos, convirtiendo a dicha comunidad en una de las mejores).
+* Quieres ser parte de una comunidad activa (tiene documentación, tutoriales y un largo etc. activos, convirtiendo a dicha comunidad en una de las mejores).
 
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
