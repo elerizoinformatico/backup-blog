@@ -241,5 +241,6 @@ Finalmente, las raíces de la ecuación son `2` y `3`.
 
 Ejercicios:
 
-* $$x^2 - 9x = 0$$
-* $$(x + 5)^2 = 25$$
+1. $$x^2 - 9x = 0$$
+2. $$(x + 5)^2 = 25$$
+3. $$3x^2 -48 = 0$$
