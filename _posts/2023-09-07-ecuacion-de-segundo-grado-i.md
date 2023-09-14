@@ -197,7 +197,7 @@ x^2 - 5x + 6 &= 0
 \end{align}
 $$
 
-Para resolverla mediante la **factorización** debemos recordar el **producto de dos binomios con término común**:
+Para resolverla mediante **factorización**, debemos recordar el **producto de dos binomios con término común**:
 
 $$
 \begin{align}
