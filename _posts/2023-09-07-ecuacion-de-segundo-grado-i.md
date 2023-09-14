@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ecuación de segundo grado"
+title:  "Ecuación de segundo grado I: Definición, clasificación y métodos de resolución"
 tags:   Math
 date:   2023-09-07 12:19:06
 ---
@@ -239,7 +239,7 @@ $$
 
 Finalmente, las raíces de la ecuación son `2` y `3`.
 
-Ejercicios:
+## Ejercicios aplicados
 
 1. $$x^2 - 9x = 0$$.
 2. $$(x + 5)^2 = 25$$.
@@ -251,3 +251,17 @@ Ejercicios:
 8. $$x^2 - 2x = 15$$.
 9. $$x^2 - 7x + 10 = 0$$.
 10. $$6x + x(x - 13) = 18$$.
+11. $$x^2 + x - 6 = 0$$.
+12. $$x^2 - 4x + 4 = 0$$.
+13. $$2x - 3 = 1 - 2x + x^2$$.
+14. $$x^2 + (7 - x)^2 = 25$$.
+15. $$x^2 - (x + 1)^2 = 2 - x^2$$.
+16. $$-x^2 = 6x + 8$$.
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
