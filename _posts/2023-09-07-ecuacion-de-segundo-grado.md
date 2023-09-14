@@ -183,7 +183,7 @@ x &= 3
 \end{align}
 $$
 
-Por lo tanto, las soluciones o raíces para la ecuación serán `0` y `3`.
+Por lo tanto, las soluciones o raíces para la ecuación son `0` y `3`.
 
 ### **Resolución de ecuaciones completas**
 
@@ -213,7 +213,7 @@ Posibles opciones:
 * **$$2$$ y $$-3$$**: $$2 \cdot (-3) = -6$$ y $$2 + (-3) = -1$$. Por lo tanto, $$2$$ y $$-3$$ no son los números que buscamos.
 * **$$-2$$ y $$-3$$**: $$(-2) \cdot (-3) = 6$$ y $$(-2) + (-3) = -5$$. Por lo tanto, $$-2$$ y $$-3$$ **si** son los números que buscamos.
 
-Por lo tanto, la ecuación $$x^2 - 5x + 6 &= 0$$ podemos escribirla como:
+Por lo tanto, la ecuación $$x^2 - 5x + 6 = 0$$ podemos escribirla como:
 
 $$
 \begin{align}
@@ -221,7 +221,7 @@ $$
 \end{align}
 $$
 
-Donde sus soluciones o raíces serán:
+En donde tenemos que:
 
 $$
 \begin{align}
@@ -237,4 +237,9 @@ x &= 3
 \end{align}
 $$
 
+Finalmente, las raíces de la ecuación son `2` y `3`.
+
 Ejercicios:
+
+* $$x^2 - 9x = 0$$
+* $$(x + 5)^2 = 25$$
