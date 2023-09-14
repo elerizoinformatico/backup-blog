@@ -258,6 +258,8 @@ Finalmente, las raíces de la ecuación son `2` y `3`.
 15. $$x^2 - (x + 1)^2 = 2 - x^2$$.
 16. $$-x^2 = 6x + 8$$.
 
+Debido a que es bastante contenido, he decidido separar en más partes todo lo que necesitas saber sobre la ecuación cuadrática. Si tienes alguna duda con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
+
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
         issue-term="pathname"
