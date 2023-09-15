@@ -301,7 +301,7 @@ x^2 - (x_1 + x_2)x + (x_1 \cdot x_2) &= 0
 \end{align}
 $$
 
-Donde:
+Donde sabemos que:
 
 $$
 \begin{align}
@@ -331,16 +331,8 @@ $$
 $$
 \begin{align}
 x^2 - (-1 + \frac{1}{2})x + (-1 \cdot \frac{1}{2}) &= 0\\
-x^2 - (-\frac{1}{2}))x + (-\frac{1}{2}) &= 0\\
+x^2 - (-\frac{1}{2})x + (-\frac{1}{2}) &= 0\\
 x^2 + \frac{1}{2}x - \frac{1}{2} &= 0
-\end{align}
-$$
-
-También podemos escribirla en términos enteros (amplificando por $$2$$):
-
-$$
-\begin{align}
-2x^2 + x - 1 &= 0
 \end{align}
 $$
 
