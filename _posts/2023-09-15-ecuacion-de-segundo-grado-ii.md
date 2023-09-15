@@ -80,7 +80,7 @@ $$
 
 ### **Ejemplos**
 
-#### **$$6x^2 - 5x + 1 = 0$$.**
+### **$$6x^2 - 5x + 1 = 0$$.**
 
 Si la ecuación está en su forma estándar ($$ax^2 + bx + c = 0$$), debemos identificar los valores de los coeficientes **a**, **b** y **c**:
 
@@ -115,7 +115,7 @@ x_2 &= \frac{1}{3}
 \end{align}
 $$
 
-#### **$$8x + 5 = 36x^2$$.**
+### **$$8x + 5 = 36x^2$$.**
 
 En este caso, debemos ordenar la ecuación antes de identificar los coeficientes ya que no está en su forma estándar:
 
@@ -126,7 +126,9 @@ $$
 \end{align}
 $$
 
-Es importante aclarar que para resolver una ecuación cuadrática mediante la fórmula general, el valor del coeficiente **a** no puede ser negativo. Reemplazamos los valores de los coeficientes **a**, **b** y **C** en la fórmula general:
+Es importante aclarar que para resolver una ecuación cuadrática mediante la fórmula general, el valor del coeficiente **a** no puede ser negativo.
+
+Reemplazamos los valores de los coeficientes **a**, **b** y **C** en la fórmula general:
 
 $$
 \begin{align}
@@ -155,7 +157,7 @@ x_2 &= - \frac{5}{18}
 \end{align}
 $$
 
-#### **$$(5x - 4)^2 - (3x + 5)(2x - 1) = 20x(x - 2) + 27$$.**
+### **$$(5x - 4)^2 - (3x + 5)(2x - 1) = 20x(x - 2) + 27$$.**
 
 Pendiente.
 
