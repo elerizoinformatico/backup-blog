@@ -364,6 +364,8 @@ $$
 15. Hallar el valor de dos números cuya suma sea $$5$$ y su producto $$-84$$
 16. Determinar la edad de Pedro sabiendo que dentro de 11 años tendrá la mitad del cuadrado de la edad que tenía hace 13 años.
 
+Si tienes dudas con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
+
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
         issue-term="pathname"
