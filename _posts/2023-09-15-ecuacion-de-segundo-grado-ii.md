@@ -126,7 +126,7 @@ $$
 \end{align}
 $$
 
-Es importante aclarar que para resolver una ecuación cuadrática mediante la fórmula general, el valor del coeficiente **a** **no debe ser negativo**.
+Es importante aclarar que para resolver una ecuación cuadrática mediante la fórmula general, el valor del coeficiente **a** **¡no debe ser negativo!**.
 
 Reemplazamos los valores en la fórmula general:
 
@@ -164,7 +164,6 @@ Al igual que con el ejemplo anterior, la ecuación no se encuentra en su forma e
 $$
 \begin{align}
 (25x^2 - 40x + 16) - (6x^2 - 3x + 10x - 5) &= 20x^2 - 40x + 27\\
-25x^2 - 40x + 16 - 6x^2 + 3x - 10x + 5 - 20x^2 + 40x - 27 = 0\\
 x^2 + 7x + 6 = 0
 \end{align}
 $$
