@@ -90,9 +90,34 @@ Luego, reemplazamos los valores en la fórmula general y resolvemos:
 
 $$
 \begin{align}
-x &= \frac{-(-5) \pm \sqrt{(-5)^2 - 4\cdot(6)\cdot(1)}}{2\cdot(6)}
+x &= \frac{-(-5) \pm \sqrt{(-5)^2 - 4\cdot(6)\cdot(1)}}{2\cdot(6)}\\
+x &= \frac{5 \pm \sqrt{25 - 24}}{12}\\
+x &= \frac{5 \pm \sqrt{1}}{12}\\
+x &= \frac{5 \pm 1}{12}
 \end{align}
 $$
+
+Por lo tanto, las soluciones o raíces de nuestra ecuación son:
+
+$$
+\begin{align}
+x_1 &= \frac{5 + 1}{12}\\
+x_1 &= \frac{6}{12}\\
+x_1 &= \frac{1}{2}
+\end{align}
+$$
+
+$$
+\begin{align}
+x_2 &= \frac{5 - 1}{12}\\
+x_2 &= \frac{4}{12}\\
+x_2 &= \frac{1}{3}
+\end{align}
+$$
+
+**$$8x + 5 = 36x^2$$.**
+
+Pendiente.
 
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
