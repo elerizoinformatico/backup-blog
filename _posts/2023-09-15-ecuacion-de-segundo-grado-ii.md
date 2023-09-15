@@ -126,9 +126,9 @@ $$
 \end{align}
 $$
 
-Es importante aclarar que para resolver una ecuación cuadrática mediante la fórmula general, el valor del coeficiente **a** no puede ser negativo.
+Es importante aclarar que para resolver una ecuación cuadrática mediante la fórmula general, el valor del coeficiente **a** **no debe ser negativo**.
 
-Reemplazamos los valores de los coeficientes **a**, **b** y **C** en la fórmula general:
+Reemplazamos los valores en la fórmula general:
 
 $$
 \begin{align}
@@ -158,6 +158,47 @@ x_2 &= - \frac{5}{18}
 $$
 
 ### **$$(5x - 4)^2 - (3x + 5)(2x - 1) = 20x(x - 2) + 27$$.**
+
+Al igual que con el ejemplo anterior, la ecuación no se encuentra en su forma estándar y por lo mismo debemos ordenarla:
+
+$$
+\begin{align}
+(25x^2 - 40x + 16) - (6x^2 - 3x + 10x - 5) &= 20x^2 - 40x + 27\\
+25x^2 - 40x + 16 - 6x^2 + 3x - 10x + 5 - 20x^2 + 40x - 27 = 0\\
+x^2 + 7x + 6 = 0
+\end{align}
+$$
+
+Luego, reemplazamos los valores en la fórmula general:
+
+$$
+\begin{align}
+x &= \frac{-(7) \pm \sqrt{(7)^2 - 4\cdot(1)\cdot(6)}}{2\cdot(1)}\\
+x &= \frac{-7 \pm \sqrt{49 - 24}}{2}\\
+x &= \frac{-7 \pm \sqrt{25}}{2}\\
+x &= \frac{-7 \pm 5}{2}
+\end{align}
+$$
+
+Por último, obtenemos sus raíces:
+
+$$
+\begin{align}
+x_1 &= \frac{-7 + 5}{2}\\
+x_1 &= \frac{-2}{2}\\
+x_1 &= -1
+\end{align}
+$$
+
+$$
+\begin{align}
+x_2 &= \frac{-7 - 5}{2}\\
+x_2 &= \frac{-12}{2}\\
+x_2 &= -6
+\end{align}
+$$
+
+## Discriminante y tipos de soluciones
 
 Pendiente.
 
