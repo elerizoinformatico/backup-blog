@@ -82,17 +82,15 @@ $$
 
 **$$6x^2 - 5x + 1 = 0$$.**
 
-Si la ecuación está en su forma estándar ()$$ax^2 + bx + c = 0$$), debemos identificar los valores de los coeficientes **a**, **b** y **c**:
+Si la ecuación está en su forma estándar ($$ax^2 + bx + c = 0$$), debemos identificar los valores de los coeficientes **a**, **b** y **c**:
 
-$$a = 6$$.
-$$b = -5$$.
-$$c = 1$$.
+$$a = 6$$, $$b = -5$$ y $$c = 1$$
 
-Luego, reemplazamos los valores en la fórmula general:
+Luego, reemplazamos los valores en la fórmula general y resolvemos:
 
 $$
 \begin{align}
-x &= \frac{-(-5) \pm \sqrt{(-5)^2 - 4\cdot(6)\cdot(1)}}{2\cdot(6))}
+x &= \frac{-(-5) \pm \sqrt{(-5)^2 - 4\cdot(6)\cdot(1)}}{2\cdot(6)}
 \end{align}
 $$
 
