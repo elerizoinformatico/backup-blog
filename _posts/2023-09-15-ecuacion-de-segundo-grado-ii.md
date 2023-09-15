@@ -213,6 +213,8 @@ A partir de este dato podemos conocer el tipo o naturaleza de sus raíces:
 * Si $$\Delta = 0$$, la ecuación tendrá dos soluciones **reales e iguales**, es decir, $$x_1 = x_2$$.
 * Si $$\Delta < 0$$, la ecuación **no tendrá solución en los reales**, es decir, $$x_1$$ y $$x_2$$ serán dos números **complejos conjugados**.
 
+### Ejemplos
+
 Pendiente.
 
 <script src="https://utteranc.es/client.js"
