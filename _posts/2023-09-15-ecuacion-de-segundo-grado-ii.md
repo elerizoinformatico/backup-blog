@@ -271,6 +271,76 @@ x_2 &= \frac{-1 - \sqrt{-3}}{2}
 \end{align}
 $$
 
+### **3. $$x^2 - 4x + 4 = 0$$.**
+
+$$
+\begin{align}
+\Delta &= (-4)^2 - 4\cdot(1)\cdot(4)\\
+\Delta &= 16 - 16\\
+\Delta &= 0
+\end{align}
+$$
+
+Como $$\Delta = 0$$, la ecuación tendrá dos soluciones reales e iguales:
+
+$$
+\begin{align}
+x &= \frac{-b}{2a}
+x &= \frac{4}{2}
+x &= 2
+\end{align}
+$$
+
+## Ecuaciones cuadráticas a partir de sus soluciones
+
+Si conocemos las raíces de una ecuación de segundo grado, podemos escribirla en su forma estándar como:
+
+$$
+\begin{align}
+x^2 - (x_1 + x_2)x + (x_1 \cdot x_2) &= 0
+\end{align}
+$$
+
+### **Ejemplos**
+
+### **1. $$x_1 = 2$$ y $$x_2 = 5$$.**
+
+$$
+\begin{align}
+x^2 - (2 + 5)x + (2 \cdot 5) &= 0
+x^2 - 7x + 10 &= 0
+\end{align}
+$$
+
+### **2. $$x_1 = -1$$ y $$x_2 = \frac{1}{2}$$.**
+
+$$
+\begin{align}
+x^2 - (-1 + \frac{1}{2})x + (-1 \cdot \frac{1}{2}) &= 0
+x^2 - (-\frac{1}{2}))x + (-\frac{1}{2}) &= 0
+x^2 + \frac{1}{2}x - \frac{1}{2} &= 0
+\end{align}
+$$
+
+También podemos escribirla en términos enteros (amplificando por $$2$$):
+
+$$
+\begin{align}
+2x^2 + x - 1 &= 0
+\end{align}
+$$
+
+### **3. $$x_1 = \sqrt{2}$$ y $$x_2 = \sqrt{3}$$.**
+
+$$
+\begin{align}
+x^2 - (\sqrt{2} + \sqrt{3})x + (\sqrt{2} \cdot \sqrt{3}) &= 0
+x^2 - (\sqrt{2} + \sqrt{3})x + (\sqrt{6}) &= 0
+\end{align}
+$$
+
+## Ejercicios aplicados
+
 Pendiente.
 
 <script src="https://utteranc.es/client.js"
