@@ -219,8 +219,8 @@ A partir de este dato podemos conocer el tipo o naturaleza de sus raíces:
 
 $$
 \begin{align}
-\Delta &= (-5)^2 - 4\cdot(3)\cdot(1)
-\Delta &= 25 - 12
+\Delta &= (-5)^2 - 4\cdot(3)\cdot(1)\\
+\Delta &= 25 - 12\\
 \Delta &= 13
 \end{align}
 $$
@@ -251,8 +251,8 @@ $$
 
 $$
 \begin{align}
-\Delta &= (1)^2 - 4\cdot(1)\cdot(1)
-\Delta &= 1 - 4
+\Delta &= (1)^2 - 4\cdot(1)\cdot(1)\\
+\Delta &= 1 - 4\\
 \Delta &= -3
 \end{align}
 $$
