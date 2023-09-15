@@ -80,7 +80,7 @@ $$
 
 ### **Ejemplos**
 
-### **$$6x^2 - 5x + 1 = 0$$.**
+### **1. $$6x^2 - 5x + 1 = 0$$.**
 
 Si la ecuación está en su forma estándar ($$ax^2 + bx + c = 0$$), debemos identificar los valores de los coeficientes **a**, **b** y **c**:
 
@@ -115,7 +115,7 @@ x_2 &= \frac{1}{3}
 \end{align}
 $$
 
-### **$$8x + 5 = 36x^2$$.**
+### **2. $$8x + 5 = 36x^2$$.**
 
 En este caso, debemos ordenar la ecuación antes de identificar los coeficientes ya que no está en su forma estándar:
 
@@ -157,7 +157,7 @@ x_2 &= - \frac{5}{18}
 \end{align}
 $$
 
-### **$$(5x - 4)^2 - (3x + 5)(2x - 1) = 20x(x - 2) + 27$$.**
+### **3. $$(5x - 4)^2 - (3x + 5)(2x - 1) = 20x(x - 2) + 27$$.**
 
 Al igual que con el ejemplo anterior, la ecuación no se encuentra en su forma estándar y por lo mismo debemos ordenarla:
 
