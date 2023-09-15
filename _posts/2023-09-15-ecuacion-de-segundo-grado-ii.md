@@ -285,8 +285,8 @@ Como $$\Delta = 0$$, la ecuación tendrá dos soluciones reales e iguales:
 
 $$
 \begin{align}
-x &= \frac{-b}{2a}
-x &= \frac{4}{2}
+x &= \frac{-b}{2a}\\
+x &= \frac{4}{2}\\
 x &= 2
 \end{align}
 $$
@@ -307,7 +307,7 @@ $$
 
 $$
 \begin{align}
-x^2 - (2 + 5)x + (2 \cdot 5) &= 0
+x^2 - (2 + 5)x + (2 \cdot 5) &= 0\\
 x^2 - 7x + 10 &= 0
 \end{align}
 $$
@@ -316,8 +316,8 @@ $$
 
 $$
 \begin{align}
-x^2 - (-1 + \frac{1}{2})x + (-1 \cdot \frac{1}{2}) &= 0
-x^2 - (-\frac{1}{2}))x + (-\frac{1}{2}) &= 0
+x^2 - (-1 + \frac{1}{2})x + (-1 \cdot \frac{1}{2}) &= 0\\
+x^2 - (-\frac{1}{2}))x + (-\frac{1}{2}) &= 0\\
 x^2 + \frac{1}{2}x - \frac{1}{2} &= 0
 \end{align}
 $$
@@ -334,14 +334,16 @@ $$
 
 $$
 \begin{align}
-x^2 - (\sqrt{2} + \sqrt{3})x + (\sqrt{2} \cdot \sqrt{3}) &= 0
+x^2 - (\sqrt{2} + \sqrt{3})x + (\sqrt{2} \cdot \sqrt{3}) &= 0\\
 x^2 - (\sqrt{2} + \sqrt{3})x + (\sqrt{6}) &= 0
 \end{align}
 $$
 
 ## Ejercicios aplicados
 
-Pendiente.
+1. $$x^2 - 14x + 45 = 0$$.
+2. $$2x^2 - x - 1 = 0$$.
+3. $$6x^2 + 5x +1 = 0$$.
 
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
