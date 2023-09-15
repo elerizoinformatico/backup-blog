@@ -247,7 +247,27 @@ x_2 &= \frac{5 - \sqrt{13}}{6}
 \end{align}
 $$
 
-### **2. $$x^2 + x + 1 = 0$$.**
+### **2. $$x^2 - 4x + 4 = 0$$.**
+
+$$
+\begin{align}
+\Delta &= (-4)^2 - 4\cdot(1)\cdot(4)\\
+\Delta &= 16 - 16\\
+\Delta &= 0
+\end{align}
+$$
+
+Como $$\Delta = 0$$, la ecuación tendrá dos soluciones reales e iguales:
+
+$$
+\begin{align}
+x &= \frac{-b}{2a}\\
+x &= \frac{4}{2}\\
+x &= 2
+\end{align}
+$$
+
+### **3. $$x^2 + x + 1 = 0$$.**
 
 $$
 \begin{align}
@@ -268,26 +288,6 @@ $$
 $$
 \begin{align}
 x_2 &= \frac{-1 - \sqrt{-3}}{2}
-\end{align}
-$$
-
-### **3. $$x^2 - 4x + 4 = 0$$.**
-
-$$
-\begin{align}
-\Delta &= (-4)^2 - 4\cdot(1)\cdot(4)\\
-\Delta &= 16 - 16\\
-\Delta &= 0
-\end{align}
-$$
-
-Como $$\Delta = 0$$, la ecuación tendrá dos soluciones reales e iguales:
-
-$$
-\begin{align}
-x &= \frac{-b}{2a}\\
-x &= \frac{4}{2}\\
-x &= 2
 \end{align}
 $$
 
