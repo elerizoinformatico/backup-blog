@@ -17,7 +17,7 @@ x &= \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 \end{align}
 $$
 
-Tener en cuenta que el signo $$\pm$$ nos indica que tendremos dos soluciones.
+El símbolo $$\pm$$ nos indica que tendremos dos soluciones.
 
 ### **Demostración de la fórmula general**
 
@@ -45,7 +45,7 @@ $$
 \end{align}
 $$
 
-Agrupamos los términos de tal forma de obtener un **trinomio cuadrado perfecto**:
+Agrupamos términos de tal forma de obtener un **trinomio cuadrado perfecto**:
 
 $$
 \begin{align}
