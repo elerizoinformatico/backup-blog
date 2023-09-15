@@ -164,7 +164,7 @@ Al igual que con el ejemplo anterior, la ecuación no se encuentra en su forma e
 $$
 \begin{align}
 (25x^2 - 40x + 16) - (6x^2 - 3x + 10x - 5) &= 20x^2 - 40x + 27\\
-x^2 + 7x + 6 = 0
+x^2 + 7x + 6 &= 0
 \end{align}
 $$
 
