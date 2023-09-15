@@ -301,6 +301,20 @@ x^2 - (x_1 + x_2)x + (x_1 \cdot x_2) &= 0
 \end{align}
 $$
 
+Donde:
+
+$$
+\begin{align}
+x_1 + x_2 &= - \frac{b}{a}
+\end{align}
+$$
+
+$$
+\begin{align}
+x_1 \cdot x_2 &= \frac{c}{a}
+\end{align}
+$$
+
 ### **Ejemplos**
 
 ### **1. $$x_1 = 2$$ y $$x_2 = 5$$.**
