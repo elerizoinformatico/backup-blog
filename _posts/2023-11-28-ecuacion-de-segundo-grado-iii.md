@@ -33,7 +33,7 @@ Para resolver una ecuación bicuadrada debemos efectuar el siguiente cambio de v
 
 $$
 \begin{align}
-x^2 &= t
+x^2 &= t\\
 x^4 &= t^2
 \end{align}
 $$
