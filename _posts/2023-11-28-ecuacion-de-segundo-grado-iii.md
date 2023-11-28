@@ -56,3 +56,90 @@ x_3 &= + \sqrt{t_2}\\
 x_4 &= - \sqrt{t_2}\\
 \end{align}
 $$
+
+### **Ejemplos**
+
+### **1. $$x^4 - 2x^2 + 1 = 0$$.**
+
+Como la ecuación ya se encuentra en su forma estándar, aplicamos el cambio de variable $$x^2 = t$$ y $$x^4 = t^2$$:
+
+$$
+\begin{align}
+t^2 - 2t + 1 &= 0
+\end{align}
+$$
+
+Tomamos los coeficientes **a**, **b** y **c** y los reemplazamos en la fórmula general:
+
+$$
+\begin{align}
+x &= \frac{-(-2) \pm \sqrt{(-2)^2 - 4\cdot(1)\cdot(1)}}{2\cdot(1)}\\
+x &= \frac{2 \pm \sqrt{4 - 4}}{2}\\
+x &= \frac{2 \pm \sqrt{0}}{2}\\
+x &= \frac{2}{2}
+\end{align}
+$$
+
+Para este caso, las raíces de `t` son iguales ya que el discriminante es igual a `0`:
+
+$$
+\begin{align}
+t_1 &= 1\\
+t_2 &= 1
+\end{align}
+$$
+
+Por último, deshacemos el cambio de variable para encontrar las raíces de la ecuación original:
+
+$$
+\begin{align}
+x_1 &= + \sqrt{t_1}\\
+x_1 &= \sqrt{1}\\
+x_1 &= 1
+\end{align}
+$$
+
+$$
+\begin{align}
+x_2 &= - \sqrt{t_1}\\
+x_2 &= - \sqrt{1}\\
+x_2 &= -1
+\end{align}
+$$
+
+$$
+\begin{align}
+x_3 &= + \sqrt{t_2}\\
+x_3 &= + \sqrt{1}\\
+x_3 &= 1\\
+\end{align}
+$$
+
+$$
+\begin{align}
+x_4 &= - \sqrt{t_2}\\
+x_4 &= - \sqrt{1}\\
+x_4 &= -1
+\end{align}
+$$
+
+Otra forma de resolver la ecuación es mediante la factorización:
+
+$$
+\begin{align}
+x^4 - 2x^2 + 1 &= 0\\
+x^4 - x^2 - x^2 + 1 &= 0\\
+x^2(x^2 - 1) - (x^2 - 1) &= 0\\
+(x^2 - 1)(x^2 - 1) &= 0
+(x - 1)(x + 1)(x - 1)(x + 1) &= 0
+(x - 1)^2(x + 1)^2 &= 0
+\end{align}
+$$
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
