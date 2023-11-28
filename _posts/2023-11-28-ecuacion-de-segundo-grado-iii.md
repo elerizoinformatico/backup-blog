@@ -25,7 +25,7 @@ ax^4 + bx^2 + c &= 0
 \end{align}
 $$
 
-Como se trata de una ecuación de cuarto grado tendremos **4 soluciones**, las cuales pueden ser todas reales o bien, todas complejas.
+Como se trata de una ecuación de cuarto grado tendremos **4 raíces**, las cuales pueden ser todas reales, todas complejas o combinadas (2 reales y 2 complejas).
 
 ## Resolución
 
@@ -38,7 +38,7 @@ x^4 &= t^2
 \end{align}
 $$
 
-Con este cambio, la ecuación de cuarto grado se convertirá en una ecuación de segundo grado que ya sabemos como resolver:
+Con este cambio, la ecuación se convertirá en una de segundo grado que ya sabemos como resolver:
 
 $$
 \begin{align}
@@ -46,4 +46,13 @@ at^2 + bt + c &= 0
 \end{align}
 $$
 
-Por último, las cuatro soluciones de la ecuación serán las raíces de $$t_1$$ y $$t_2$$.
+Por último, las cuatro soluciones de la ecuación serán las raíces de $$t_1$$ y $$t_2$$:
+
+$$
+\begin{align}
+x_1 &= + \sqrt{t_1}\\
+x_2 &= - \sqrt{t_1}\\
+x_3 &= + \sqrt{t_2}\\
+x_4 &= - \sqrt{t_2}\\
+\end{align}
+$$
