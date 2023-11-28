@@ -220,9 +220,78 @@ x^4 - 10x^2 + 9 &= 0\\
 \end{align}
 $$
 
+Donde tenemos las raíces $$x_1 = 3$$, $$x_2 = -3$$, $$x_3 = 1$$ y $$x_4 = -1$$.
+
 ### **3. $$x^4 - 16x^2 - 225 = 0$$.**
 
-Pendiente.
+Aplicamos cambio de variable y reemplazamos los coeficientes en la fórmula general:
+
+$$
+\begin{align}
+t^2 - 16t - 225 &= 0
+\end{align}
+$$
+
+$$
+\begin{align}
+t &= \frac{-(-16) \pm \sqrt{(-16)^2 - 4\cdot(1)\cdot(-225)}}{2\cdot(1)}\\
+t &= \frac{16 \pm \sqrt{256 + 900}}{2}\\
+t &= \frac{16 \pm \sqrt{1156}}{2}\\
+t &= \frac{16 \pm 34}{2}\\
+\end{align}
+$$
+
+Las raíces de `t` son reales y distintas ya que el discriminante es mayor que `0`:
+
+$$
+\begin{align}
+t_1 &= \frac{16 + 34}{2}\\
+t_1 &= \frac{50}{2}\\
+t_1 &= 25
+\end{align}
+$$
+
+$$
+\begin{align}
+t_2 &= \frac{16 - 34}{2}\\
+t_2 &= \frac{-18}{2}\\
+t_2 &= -9
+\end{align}
+$$
+
+Deshacemos el cambio de variable para encontrar las soluciones:
+
+$$
+\begin{align}
+x_1 &= + \sqrt{t_1}\\
+x_1 &= \sqrt{25}\\
+x_1 &= 5
+\end{align}
+$$
+
+$$
+\begin{align}
+x_2 &= - \sqrt{t_1}\\
+x_2 &= - \sqrt{25}\\
+x_2 &= -5
+\end{align}
+$$
+
+$$
+\begin{align}
+x_3 &= + \sqrt{t_2}\\
+x_3 &= \sqrt{-9}
+\end{align}
+$$
+
+$$
+\begin{align}
+x_4 &= - \sqrt{t_2}\\
+x_4 &= - \sqrt{-9}
+\end{align}
+$$
+
+En este caso, la ecuación bicuadrada tiene solo 2 soluciones reales ya que las otras son complejas conjugadas.
 
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
