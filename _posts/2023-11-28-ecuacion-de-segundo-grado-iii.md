@@ -293,6 +293,21 @@ $$
 
 En este caso, la ecuación bicuadrada tiene solo 2 soluciones reales ya que las otras son complejas conjugadas.
 
+## Ejercicios aplicados
+
+1. $$x^4 = x^2$$.
+2. $$x^4 - 13x^2 + 36 = 0$$.
+3. $$x^4 - 74x^2 + 1225 = 0$$.
+4. $$x^4 - -5x^2 + 6 = 0$$.
+5. $$x^4 - 9x^2 = 0$$.
+6. $$x^4 + 2x^2 = 0$$.
+7. $$x^4 - 80x^2 - 81 = 0$$.
+8. Encontrar una ecuación bicuadrada que tenga al menos la solución $$x = \sqrt{2 + \sqrt{3}}$$.
+9. $$x^6 - 19x^3 - 216 = 0$$.
+10. $$x^6 - 7x^3 - 8 = 0$$.
+
+Si tienes dudas con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
+
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
         issue-term="pathname"
