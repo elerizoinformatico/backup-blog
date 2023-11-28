@@ -81,7 +81,7 @@ t &= 1
 \end{align}
 $$
 
-Para este caso, las raíces de `t` son iguales ya que el discriminante es igual a `0`:
+Para este caso, las raíces de `t` son reales e iguales ya que el discriminante es igual a `0`:
 
 $$
 \begin{align}
@@ -139,6 +139,79 @@ $$
 Donde tenemos que las raíces son $$x_1 = 1$$, $$x_2 = -1$$, $$x_3 = 1$$ y $$x_4 = -1$$.
 
 ### **2. $$x^4 - 10x^2 + 9 = 0$$.**
+
+Aplicamos cambio de variable:
+
+$$
+\begin{align}
+t^2 - 10t + 9 &= 0
+\end{align}
+$$
+
+Tomamos los coeficientes $$a = 1$$, $$b = -10$$ y $$c = 9$$ y los reemplazamos en la fórmula general:
+
+$$
+\begin{align}
+t &= \frac{-(-10) \pm \sqrt{(-10)^2 - 4\cdot(1)\cdot(9)}}{2\cdot(1)}\\
+t &= \frac{10 \pm \sqrt{100 - 36}}{2}\\
+t &= \frac{10 \pm \sqrt{64}}{2}\\
+t &= \frac{10 \pm 8}{2}\\
+\end{align}
+$$
+
+Para este caso, las raíces de `t` son reales y distintas ya que el discriminante es mayor que `0`:
+
+$$
+\begin{align}
+t_1 &= \frac{10 + 8}{2}\\
+t_1 &= \frac{18}{2}\\
+t_1 &= 9
+\end{align}
+$$
+
+$$
+\begin{align}
+t_2 &= \frac{10 - 8}{2}\\
+t_2 &= \frac{2}{2}\\
+t_2 &= 1
+\end{align}
+$$
+
+Por último, deshacemos el cambio de variable para encontrar las soluciones de la ecuación original:
+
+$$
+\begin{align}
+x_1 &= + \sqrt{t_1}\\
+x_1 &= \sqrt{9}\\
+x_1 &= 3
+\end{align}
+$$
+
+$$
+\begin{align}
+x_2 &= - \sqrt{t_1}\\
+x_2 &= - \sqrt{9}\\
+x_2 &= -3
+\end{align}
+$$
+
+$$
+\begin{align}
+x_3 &= + \sqrt{t_2}\\
+x_3 &= + \sqrt{1}\\
+x_3 &= 1\\
+\end{align}
+$$
+
+$$
+\begin{align}
+x_4 &= - \sqrt{t_2}\\
+x_4 &= - \sqrt{1}\\
+x_4 &= -1
+\end{align}
+$$
+
+### **3. $$x^4 - 16x^2 - 225 = 0$$.**
 
 Pendiente.
 
