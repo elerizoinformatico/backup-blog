@@ -69,7 +69,7 @@ t^2 - 2t + 1 &= 0
 \end{align}
 $$
 
-Tomamos los coeficientes **a**, **b** y **c** y los reemplazamos en la fórmula general:
+Tomamos los coeficientes $$a = 1$$, $$b = -2$$ y $$c = 1$$ y los reemplazamos en la fórmula general:
 
 $$
 \begin{align}
@@ -130,11 +130,12 @@ $$
 x^4 - 2x^2 + 1 &= 0\\
 x^4 - x^2 - x^2 + 1 &= 0\\
 x^2(x^2 - 1) - (x^2 - 1) &= 0\\
-(x^2 - 1)(x^2 - 1) &= 0
-(x - 1)(x + 1)(x - 1)(x + 1) &= 0
-(x - 1)^2(x + 1)^2 &= 0
+(x^2 - 1)(x^2 - 1) &= 0\\
+(x - 1)(x + 1)(x - 1)(x + 1) &= 0\\
 \end{align}
 $$
+
+Donde tenemos que las raíces son $$x_1 = 1$$, $$x_2 = -1$$, $$x_3 = 1$$ y $$x_4 = -1$$.
 
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
