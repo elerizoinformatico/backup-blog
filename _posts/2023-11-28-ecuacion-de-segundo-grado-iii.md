@@ -129,9 +129,9 @@ Otra forma de resolver la ecuación es mediante la factorización:
 $$
 \begin{align}
 x^4 - 2x^2 + 1 &= 0\\
-(x^2 - 1)^2 &= 0
+(x^2 - 1)^2 &= 0\\
 (x^2 - 1)(x^2 - 1) &= 0\\
-(x - 1)(x + 1)(x - 1)(x + 1) &= 0\\
+(x - 1)(x + 1)(x - 1)(x + 1) &= 0
 \end{align}
 $$
 
@@ -176,7 +176,7 @@ t_2 &= 1
 \end{align}
 $$
 
-Por último, deshacemos el cambio de variable para encontrar las soluciones de la ecuación original:
+Por último, deshacemos el cambio de variable para encontrar las soluciones:
 
 $$
 \begin{align}
@@ -215,7 +215,7 @@ Esta ecuación, al igual que la anterior, también se puede resolver mediante fa
 $$
 \begin{align}
 x^4 - 10x^2 + 9 &= 0\\
-(x^2 - 9)(x^2 - 1) &= 0
+(x^2 - 9)(x^2 - 1) &= 0\\
 (x - 3)(x + 3)(x - 1)(x + 1) &= 0\\
 \end{align}
 $$
