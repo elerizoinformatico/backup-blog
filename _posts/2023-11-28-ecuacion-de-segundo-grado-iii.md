@@ -73,10 +73,11 @@ Tomamos los coeficientes $$a = 1$$, $$b = -2$$ y $$c = 1$$ y los reemplazamos en
 
 $$
 \begin{align}
-x &= \frac{-(-2) \pm \sqrt{(-2)^2 - 4\cdot(1)\cdot(1)}}{2\cdot(1)}\\
-x &= \frac{2 \pm \sqrt{4 - 4}}{2}\\
-x &= \frac{2 \pm \sqrt{0}}{2}\\
-x &= \frac{2}{2}
+t &= \frac{-(-2) \pm \sqrt{(-2)^2 - 4\cdot(1)\cdot(1)}}{2\cdot(1)}\\
+t &= \frac{2 \pm \sqrt{4 - 4}}{2}\\
+t &= \frac{2 \pm \sqrt{0}}{2}\\
+t &= \frac{2}{2}\\
+t &= 1
 \end{align}
 $$
 
@@ -89,7 +90,7 @@ t_2 &= 1
 \end{align}
 $$
 
-Por último, deshacemos el cambio de variable para encontrar las raíces de la ecuación original:
+Por último, deshacemos el cambio de variable para encontrar las soluciones de la ecuación original:
 
 $$
 \begin{align}
@@ -136,6 +137,10 @@ x^2(x^2 - 1) - (x^2 - 1) &= 0\\
 $$
 
 Donde tenemos que las raíces son $$x_1 = 1$$, $$x_2 = -1$$, $$x_3 = 1$$ y $$x_4 = -1$$.
+
+### **2. $$x^4 - 10x^2 + 9 = 0$$.**
+
+Pendiente.
 
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
