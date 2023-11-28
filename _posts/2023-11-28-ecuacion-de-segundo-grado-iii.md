@@ -302,7 +302,7 @@ En este caso, la ecuación bicuadrada tiene solo 2 soluciones reales ya que las 
 5. $$x^4 - 9x^2 = 0$$.
 6. $$x^4 + 2x^2 = 0$$.
 7. $$x^4 - 80x^2 - 81 = 0$$.
-8. Encontrar una ecuación bicuadrada que tenga al menos la solución $$x = \sqrt{2 + \sqrt{3}}$$.
+8. Encontrar una ecuación bicuadrada en la que al menos una de sus soluciones sea $$x = \sqrt{2 + \sqrt{3}}$$.
 9. $$x^6 - 19x^3 - 216 = 0$$.
 10. $$x^6 - 7x^3 - 8 = 0$$.
 
