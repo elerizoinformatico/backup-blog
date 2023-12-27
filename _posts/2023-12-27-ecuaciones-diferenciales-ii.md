@@ -91,6 +91,15 @@ y' &= k_1e^{2x} + k_2xe^{2x}
 \end{align}
 $$
 
+$$
+\begin{align}
+y'' &= k_1e^{2x} + k_2xe^{2x}\\
+y'' &= 2k_1e^{2x} + k_2(e^{2x} + 2xe^{2x})\\
+y'' &= 2k_1e^{2x} + k_2e^{2x} + 2k_2xe^{2x}\\
+y'' &= K_1e^{2x} + K_2xe^{2x}
+\end{align}
+$$
+
 ## Solución trivial
 
 Si la función $$f(x) = 0$$ es una solución de una ecuación diferencial en un intervalo $$I$$, decimos que $$f$$ es una **solución trivial**.
