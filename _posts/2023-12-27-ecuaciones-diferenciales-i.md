@@ -5,8 +5,6 @@ tags:   Math
 date:   2023-12-27 09:27:11
 ---
 
-## Definición
-
 Las ecuaciones diferenciales son ecuaciones que contienen derivadas de una o más variables dependientes con respecto a una o más variables independientes.
 
 Ejemplos:
