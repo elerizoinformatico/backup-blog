@@ -62,7 +62,13 @@ $$
 \end{align}
 $$
 
-En el segundo ejemplo, la ecuación es de primer orden por la diferencial y no por la elevación al cuadrado.
+Para el segundo ejemplo, tener en cuenta que la ecuación sigue siendo de primer orden por la diferencial y no por el cuadrado:
+
+$$
+\begin{align}
+\frac{d^2y}{dx^2} \neq \left({dy\over dx}\right)^2
+\end{align}
+$$
 
 **Orden superior**: Si en la ecuación la mayor derivada es de segundo orden o superior.
 
