@@ -61,4 +61,45 @@ $$
 \end{align}
 $$
 
-Por lo tanto, podemos decir que la función $$y$$ es una solución de la ecuación diferencial.
+Por lo tanto, podemos afirmar que la función $$y$$ es una solución de la ecuación diferencial.
+
+## Solución trivial
+
+Si la función $f(x) = 0$$$ es una solución de una ecuación diferencial en un intervalo $$I$$, decimos que $$f$$ es una **solución trivial**.
+
+Tomando el ejemplo anterior tenemos:
+
+$$
+\begin{align}
+\frac{dy}{dx} &= x\sqrt{y}
+\end{align}
+$$
+
+$$
+\begin{align}
+y &= 0
+\end{align}
+$$
+
+Derivamos la función:
+
+$$
+\begin{align}
+y' &= 0
+\end{align}
+$$
+
+Por último, reemplazamos los valores:
+
+$$
+\begin{align}
+0 &= x\sqrt{0}\\
+0 &= 0
+\end{align}
+$$
+
+Por lo tanto, la función $$f(x) = 0$$ también es una solución de la ecuación diferencial.
+
+## Ejercicios aplicados
+
+Hola.
