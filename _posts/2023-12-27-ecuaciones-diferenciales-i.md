@@ -7,44 +7,6 @@ date:   2023-12-27 09:27:11
 
 Las ecuaciones diferenciales son ecuaciones que contienen derivadas de una o más variables dependientes con respecto a una o más variables independientes.
 
-Ejemplos:
-
-$$
-\begin{align}
-4\frac{dy}{dx} + 20y &= 5e^x
-\end{align}
-$$
-
-$$
-\begin{align}
-y''' - 6y'' + 12y' - 8y &= 0
-\end{align}
-$$
-
-$$
-\begin{align}
-\frac{d^2f}{dx^2} + \frac{d^2f}{dy^2} &= 0
-\end{align}
-$$
-
-$$
-\begin{align}
-L\frac{d^2q}{dt^2} + R\frac{dq}{dt} + \frac{1}{C}q &= E(t)
-\end{align}
-$$
-
-$$
-\begin{align}
-(\frac{dP}{dt})^2 + 4P &= t(t-1)
-\end{align}
-$$
-
-$$
-\begin{align}
-cos y \frac{dy}{dt} + 4t^2 &= 0
-\end{align}
-$$
-
 ## Clasificación
 
 Se pueden clasificar de acuerdo a su:
@@ -54,9 +16,9 @@ Se pueden clasificar de acuerdo a su:
 * Homogeneidad
 
 
-### Clasificación por tipo
+### **Clasificación por tipo**
 
-1. **Ordinarias** (EDO): Son ecuaciones cuyas derivadas siempre son con respecto a una misma variable.
+**Ordinarias** (EDO): Son ecuaciones cuyas derivadas siempre son con respecto a una misma variable.
 
 $$
 \begin{align}
@@ -70,7 +32,7 @@ y''' - 6y'' + 12y' - 8y &= 0
 \end{align}
 $$
 
-2. **Parciales** o **en derivadas parciales** (EDP): Son ecuaciones cuya variable dependiente se deriva con respecto a dos o más variables independientes.
+**Parciales** o **en derivadas parciales** (EDP): Son ecuaciones cuya variable dependiente se deriva con respecto a dos o más variables independientes.
 
 $$
 \begin{align}
@@ -80,6 +42,50 @@ $$
 
 $$
 \begin{align}
-u_(xx) + u_(yy) &= xy
+u_{xx} + u_{yy} &= xy
+\end{align}
+$$
+
+### **Clasificación por orden**
+
+**Primer orden**: Si en la ecuación la mayor derivada es de primer orden.
+
+$$
+\begin{align}
+4\frac{dy}{dx} + 20y &= 5e^x
+\end{align}
+$$
+
+$$
+\begin{align}
+(\frac{dP}{dt})^{2} + 4P &= t(t-1)
+\end{align}
+$$
+
+**Orden superior**: Si en la ecuación la mayor derivada es de segundo orden o superior.
+
+$$
+\begin{align}
+y''' - 6y'' + 12y' - 8y &= 0
+\end{align}
+$$
+
+$$
+\begin{align}
+\frac{d^2f}{dx^2} + \frac{d^2f}{dy^2} &= 0
+\end{align}
+$$
+
+Hola amigos.
+
+$$
+\begin{align}
+L\frac{d^2q}{dt^2} + R\frac{dq}{dt} + \frac{1}{C}q &= E(t)
+\end{align}
+$$
+
+$$
+\begin{align}
+cos y \frac{dy}{dt} + 4t^2 &= 0
 \end{align}
 $$
