@@ -180,3 +180,13 @@ Clasifica las siguientes ecuaciones diferenciales de acuerdo a su tipo, orden, l
 * $$x\frac{d^3y}{dx^3} - \left({dy\over dx}\right)^4 + y = 0$$.
 * $$t^5y^{(4)} - t^3y'' + 6y = 0$$.
 * $$\frac{d^2R}{dt^2} = - \frac{k}{R^2}$$.
+
+Si tienes dudas con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
