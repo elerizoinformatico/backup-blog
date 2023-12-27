@@ -2,7 +2,7 @@
 layout: post
 title:  "Ecuaciones diferenciales II: Verificación de soluciones"
 tags:   Math
-date:   2023-12-28 13:15:37
+date:   2023-12-27 13:15:37
 ---
 
 En este segundo capítulo del curso sobre **ecuaciones diferenciales** (si no has visto el capítulo anterior, te recomiendo hacer clic [aquí](https://elerizoinformatico.github.io/2023/12/27/ecuaciones-diferenciales-i/)), estudiaremos la solución o función solución de una ecuación para así entender su comportamiento y propiedades.

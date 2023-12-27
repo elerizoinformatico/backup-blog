@@ -2,7 +2,7 @@
 layout: post
 title:  "Ecuaciones diferenciales I: Definición y clasificación"
 tags:   Math
-date:   2023-12-27 09:27:11
+date:   2023-12-26 09:27:11
 ---
 
 Las ecuaciones diferenciales son **ecuaciones que contienen derivadas** de una o más variables dependientes con respecto a una o más variables independientes.
