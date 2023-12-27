@@ -27,7 +27,7 @@ Y puede ser abierto $$(a,b)$$, cerrado $$[a,b]$$, infinito $$(a,+\infty)$$, etc.
 
 Para verificar que una función dada es solución de una ecuación diferencial, debemos realizar una sustitución en la ecuación y corroborar que en cada lado se produzca una igualdad para toda $$x$$ en el intervalo.
 
-Ejemplo:
+**Ejemplo**:
 
 Para la ecuación diferencial ordinaria a continuación verificaremos que la función $$y$$ es una solución:
 
@@ -63,7 +63,7 @@ $$
 
 Por lo tanto, podemos afirmar que la función $$y$$ es una solución de la ecuación diferencial en cualquier intervalo.
 
-Otro ejemplo:
+**Otro ejemplo**:
 
 Dada la ecuación diferencial:
 
@@ -87,15 +87,24 @@ $$
 \begin{align}
 y' &= 2c_1e^{2x} + c_2(e^{2x} + 2xe^{2x})\\
 y' &= 2c_1e^{2x} + c_2e^{2x} + 2c_2xe^{2x}\\
-y' &= k_1e^{2x} + k_2xe^{2x}
+y' &= (2c_1 + c_2)e^{2x} + 2c_2xe^{2x}
 \end{align}
 $$
 
 $$
 \begin{align}
-y'' &= 2k_1e^{2x} + k_2(e^{2x} + 2xe^{2x})\\
-y'' &= 2k_1e^{2x} + k_2e^{2x} + 2k_2xe^{2x}\\
-y'' &= K_1e^{2x} + K_2xe^{2x}
+y'' &= 2(2c_1 + c_2)e^{2x} + 2c_2(e^{2x} + 2xe^{2x})\\
+y'' &= (4c_1 + 2c_2)e^{2x} + 2c_2e^{2x} + 4c_2xe^{2x}\\
+y'' &= (4c_1 + 2c_2 + 2c_2)e^{2x} + 4c_2xe^{2x}\\
+y'' &= (4c_1 + 4c_2)e^{2x} + 4c_2xe^{2x}
+\end{align}
+$$
+
+Sustituimos los valores de $$y$$, $$y'$$ y $$y''$$:
+
+$$
+\begin{align}
+y'' - 4y' + 4y &= 0
 \end{align}
 $$
 
