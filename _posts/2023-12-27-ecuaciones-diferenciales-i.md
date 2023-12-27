@@ -32,7 +32,7 @@ y''' - 6y'' + 12y' - 8y &= 0
 \end{align}
 $$
 
-**En derivadas parciales** (EDP): Son ecuaciones cuya variable dependiente se deriva con respecto a dos o más variables independientes.
+**Parciales** (EDP): Son ecuaciones cuya variable dependiente se deriva con respecto a dos o más variables independientes.
 
 $$
 \begin{align}
@@ -108,7 +108,7 @@ $$
 
 $$
 \begin{align}
-\cos(y) \frac{dy}{dt} + 4t^2 &= 0
+\cos{y} \frac{dy}{dt} + 4t^2 &= 0
 \end{align}
 $$
 
