@@ -23,6 +23,30 @@ y''' - 6y'' + 12y' - 8y &= 0
 \end{align}
 $$
 
+$$
+\begin{align}
+\frac{d^2f}{dx^2} + \frac{d^2f}{dy^2} &= 0
+\end{align}
+$$
+
+$$
+\begin{align}
+L\frac{d^2q}{dt^2} + R\frac{dq}{dt} + \frac{1}{C}q &= E(t)
+\end{align}
+$$
+
+$$
+\begin{align}
+(\frac{dP}{dt})^2 + 4P &= t(t-1)
+\end{align}
+$$
+
+$$
+\begin{align}
+cos y \frac{dy}{dt} + 4t^2 &= 0
+\end{align}
+$$
+
 ## Clasificación
 
 Se pueden clasificar de acuerdo a su:
