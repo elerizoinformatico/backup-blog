@@ -148,7 +148,7 @@ $$
 
 Existen dos tipos de notaciones para las derivadas:
 
-**Notación de Leibniz**
+**Notación de Leibniz**:
 
 $$
 \begin{align}
@@ -156,7 +156,7 @@ $$
 \end{align}
 $$
 
-**Notación prima**
+**Notación prima**:
 
 $$
 \begin{align}
