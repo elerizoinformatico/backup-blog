@@ -29,7 +29,7 @@ Para verificar que una función dada es solución de una ecuación diferencial, 
 
 Ejemplo:
 
-Para la ecuación diferencial a continuación verificaremos que la función $$y$$ es solución:
+Para la ecuación diferencial ordinaria a continuación verificaremos que la función $$y$$ es una solución:
 
 $$
 \begin{align}
@@ -43,7 +43,7 @@ y &= \frac{x^4}{16}
 \end{align}
 $$
 
-Lo primero que debemos hacer es derivar la función $$y$$ ya que en la ecuación tenemos una derivada de primer orden:
+Lo primero que debemos hacer es derivar la función ya que en la ecuación tenemos una derivada de primer orden:
 
 $$
 \begin{align}
@@ -51,7 +51,7 @@ $$
 \end{align}
 $$
 
-Luego, reemplazamos los valores ($$y$$ e $$y'$$) en la ecuación:
+Luego, reemplazamos los valores $$y$$ e $$y'$$:
 
 $$
 \begin{align}
