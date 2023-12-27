@@ -62,6 +62,8 @@ $$
 \end{align}
 $$
 
+En el segundo ejemplo, la ecuación es de primer orden por la diferencial y no por la elevación al cuadrado.
+
 **Orden superior**: Si en la ecuación la mayor derivada es de segundo orden o superior.
 
 $$
@@ -110,10 +112,60 @@ $$
 \end{align}
 $$
 
-Hola.
+En el primer ejemplo no se cumple la condición 1 pero sí la 2 y en el segundo ocurre lo contrario (se cumple la condición 1 pero no la 2).
+
+### **Clasificación por homogeneidad**
+
+**Homogénea**s: Si en cada uno de los términos de la ecuación se encuentra presente la variable dependiente en cualquier forma o como cualquier derivada de la variable independiente.
+
+$$
+\begin{align}
+y''' - 6y'' + 12y' - 8y &= 0
+\end{align}
+$$
+
+$$
+\begin{align}
+\frac{d^2f}{dx^2} + \frac{d^2f}{dy^2} &= 0
+\end{align}
+$$
+
+**No homogéneas**: Si existe al menos un término de la ecuación en donde no se encuentre presente la variable dependiente en cualquier forma o como cualquier derivada de la variable independiente.
+
+$$
+\begin{align}
+4\frac{dy}{dx} + 20y &= 5e^x
+\end{align}
+$$
 
 $$
 \begin{align}
 L\frac{d^2q}{dt^2} + R\frac{dq}{dt} + \frac{1}{C}q &= E(t)
 \end{align}
 $$
+
+## Notación para las derivadas
+
+Existen dos tipos de notaciones para las derivadas:
+
+**Notación de Leibniz**
+
+$$
+\begin{align}
+\frac{dy}{dx}, \frac{d^2y}{dx^2}, \frac{d^3y}{dx^3}, ..., \frac{d^ny}{dx^n}
+\end{align}
+$$
+
+**Notación prima**
+
+$$
+\begin{align}
+y', y'', y''', y^{(4)}, y^{(5)}, ..., y^{(n)}
+\end{align}
+$$
+
+La notación de Leibniz tiene una ventaja sobre la notación prima y es que muestra claramente las variables dependientes e independientes. Por lo mismo, es más común encontrar las ecuaciones diferenciales escritas con la primera notación.
+
+## Ejercicios aplicados
+
+Pendiente.
