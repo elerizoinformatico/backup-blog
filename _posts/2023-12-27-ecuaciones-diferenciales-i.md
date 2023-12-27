@@ -13,7 +13,7 @@ Ejemplos:
 
 $$
 \begin{align}
-\frac{dy}{dx} + 20y &= 5e^x
+4\frac{dy}{dx} + 20y &= 5e^x
 \end{align}
 $$
 
