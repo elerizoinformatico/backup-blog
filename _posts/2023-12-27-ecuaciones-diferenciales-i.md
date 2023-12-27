@@ -52,12 +52,12 @@ $$
 
 $$
 \begin{align}
-\frac{(d^2)f}{d(x^2)} + \frac{(d^2)f}{d(y^2)} &= 0
+\frac{d^2f}{dx^2} + \frac{d^2f}{dy^2} &= 0
 \end{align}
 $$
 
 $$
 \begin{align}
-u_xx + u_yy &= xy
+u_(xx) + u_(yy) &= xy
 \end{align}
 $$
