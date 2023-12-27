@@ -5,7 +5,7 @@ tags:   Math
 date:   2023-12-27 09:27:11
 ---
 
-Las ecuaciones diferenciales son ecuaciones que contienen derivadas de una o más variables dependientes con respecto a una o más variables independientes.
+Las ecuaciones diferenciales son **ecuaciones que contienen derivadas** de una o más variables dependientes con respecto a una o más variables independientes.
 
 ## Clasificación
 
@@ -32,7 +32,7 @@ y''' - 6y'' + 12y' - 8y &= 0
 \end{align}
 $$
 
-**Parciales** o **en derivadas parciales** (EDP): Son ecuaciones cuya variable dependiente se deriva con respecto a dos o más variables independientes.
+**En derivadas parciales** (EDP): Son ecuaciones cuya variable dependiente se deriva con respecto a dos o más variables independientes.
 
 $$
 \begin{align}
@@ -58,7 +58,7 @@ $$
 
 $$
 \begin{align}
-(\frac{dP}{dt})^{2} + 4P &= t(t-1)
+\left({dP\over dt}\right)^2 + 4P &= t(t-1)
 \end{align}
 $$
 
@@ -76,16 +76,44 @@ $$
 \end{align}
 $$
 
-Hola amigos.
+### **Clasificación por linealidad**
+
+Existen 2 condiciones que determinarán si una ecuación diferencial es lineal:
+1. La variable dependiente y todas sus derivadas son de primer grado, es decir, la potencia de todos los términos es 1.
+2. Los coeficientes de los términos de la variable dependiente son constantes o dependen de la variable independiente.
+
+**Lineal**: Si la ecuación cumple las 2 condiciones de linealidad.
 
 $$
 \begin{align}
-L\frac{d^2q}{dt^2} + R\frac{dq}{dt} + \frac{1}{C}q &= E(t)
+4\frac{dy}{dx} + 20y &= 5e^x
 \end{align}
 $$
 
 $$
 \begin{align}
-cos y \frac{dy}{dt} + 4t^2 &= 0
+y''' - 6y'' + 12y' - 8y &= 0
+\end{align}
+$$
+
+**No lineal**: Si la ecuación no cumple las 2 condiciones de linealidad, es decir, solo cumple una o ninguna de ellas.
+
+$$
+\begin{align}
+\left({dP\over dt}\right)^2 + 4P &= t(t-1)
+\end{align}
+$$
+
+$$
+\begin{align}
+\cos(y) \frac{dy}{dt} + 4t^2 &= 0
+\end{align}
+$$
+
+Hola.
+
+$$
+\begin{align}
+L\frac{d^2q}{dt^2} + R\frac{dq}{dt} + \frac{1}{C}q &= E(t)
 \end{align}
 $$
