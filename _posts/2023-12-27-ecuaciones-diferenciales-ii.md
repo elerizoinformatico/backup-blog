@@ -63,11 +63,39 @@ $$
 
 Por lo tanto, podemos afirmar que la función $$y$$ es una solución de la ecuación diferencial en cualquier intervalo.
 
+Otro ejemplo:
+
+Dada la ecuación diferencial:
+
+$$
+\begin{align}
+y'' - 4y' + 4y &= 0
+\end{align}
+$$
+
+Verificaremos si la función a continuación es una solución:
+
+$$
+\begin{align}
+y &= c_1e^{2x} + c_2xe^{2x}
+\end{align}
+$$
+
+En este caso debemos derivar la función dos veces ya que tenemos derivadas de primer y segundo orden en la ecuación:
+
+$$
+\begin{align}
+y' &= 2c_1e^{2x} + c_2(e^{2x} + 2xe^{2x})\\
+y' &= 2c_1e^{2x} + c_2e^{2x} + 2c_2xe^{2x}\\
+y' &= k_1e^{2x} + k_2xe^{2x}
+\end{align}
+$$
+
 ## Solución trivial
 
 Si la función $$f(x) = 0$$ es una solución de una ecuación diferencial en un intervalo $$I$$, decimos que $$f$$ es una **solución trivial**.
 
-Tomando el ejemplo anterior tenemos:
+Tomando el primer ejemplo tenemos:
 
 $$
 \begin{align}
