@@ -102,7 +102,7 @@ Por lo tanto, la función $$f(x) = 0$$ también es una solución de la ecuación
 
 ## Ejercicios aplicados
 
-* $$2y' + y = 0$$; $$y = e^{-\frac{x}{2}}$$.
+* $$2y' + y = 0$$; $$y = e^{-\frac{x}{2}}$$
 * $$\frac{dy}{dt} + 20y = 24$$; $$y = \frac{6}{5} - \frac{6}{5}e^{-20t} $$.
 * $$y'' - 2y' + y = 0$$; $$y = xe^x$$.
 * $$y'' - 6y' + 13y = 0$$; $$y = e^{3x}\cos(2x)$$.
