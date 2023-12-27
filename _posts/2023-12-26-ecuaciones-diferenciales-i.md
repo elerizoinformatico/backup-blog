@@ -176,7 +176,7 @@ La notación de Leibniz tiene una ventaja sobre la notación prima y es que mues
 
 Clasifica las siguientes ecuaciones diferenciales de acuerdo a su tipo, orden, linealidad y homogeneidad:
 
-* $$4\frac{dy}{dx} + 20y = 5e^x$$.
+* $$4\displaystyle\frac{dy}{dx} + 20y = 5e^x$$
 * $$y''' - 6y'' + 12y' - 8y = 0$$.
 * $$\frac{d^2f}{dx^2} + \frac{d^2f}{dy^2} = 0$$.
 * $$L\frac{d^2q}{dt^2} + R\frac{dq}{dt} + \frac{1}{C}q = E(t)$$.

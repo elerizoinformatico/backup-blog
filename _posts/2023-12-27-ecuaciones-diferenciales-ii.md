@@ -102,11 +102,11 @@ Por lo tanto, la función $$f(x) = 0$$ también es una solución de la ecuación
 
 ## Ejercicios aplicados
 
-* $$2y' + y = 0$$; $$y = e^{-\frac{x}{2}}$$
+* $$2y' + y = 0$$ ; $$y = e^{-\displaystyle\frac{x}{2}}$$
 * $$\displaystyle\frac{dy}{dt} + 20y = 24$$ ; $$y = \displaystyle\frac{6}{5} - \displaystyle\frac{6}{5}e^{-20t}$$
-* $$y'' - 2y' + y = 0$$; $$y = xe^x$$.
-* $$y'' - 6y' + 13y = 0$$; $$y = e^{3x}\cos(2x)$$.
-* $$\frac{dp}{dt} = p(1-p)$$; $$p = \frac{Ce^t}{1 + Ce^t}$$.
+* $$y'' - 2y' + y = 0$$ ; $$y = xe^x$$
+* $$y'' - 6y' + 13y = 0$$ ; $$y = e^{3x}\cos(2x)$$
+* $$\displaystyle\frac{dp}{dt} = p(1-p)$$ ; $$p = \displaystyle\frac{Ce^t}{1 + Ce^t}$$
 
 Si tienes dudas con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
 
