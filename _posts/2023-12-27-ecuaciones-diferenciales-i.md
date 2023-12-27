@@ -177,3 +177,6 @@ Clasifica las siguientes ecuaciones de acuerdo a su tipo, orden, linealidad y ho
 5. $$\left({dP\over dt}\right)^2 + 4P = t(t-1)$$.
 6. $$\cos(y) \frac{dy}{dt} + 4t^2 = 0$$.
 7. $$(1-x)y'' -4xy'+5y = \cos(x)$$.
+8. $$x\frac{d^3y}{dx^3} - \left({dy\over dx}\right)^4 + y = 0$$.
+9. $$t^5y^{(4)} - t^3y'' + 6y = 0$$.
+10. $$\frac{d^2R}{dt^2} = - \frac{k}{R^2}$$.
