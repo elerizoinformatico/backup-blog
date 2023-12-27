@@ -108,7 +108,7 @@ $$
 
 $$
 \begin{align}
-\cos{y} \frac{dy}{dt} + 4t^2 &= 0
+\cos(y) \frac{dy}{dt} + 4t^2 &= 0
 \end{align}
 $$
 
