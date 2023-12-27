@@ -5,7 +5,7 @@ tags:   Math
 date:   2023-12-27 13:15:37
 ---
 
-En este segundo capítulo del curso sobre **ecuaciones diferenciales** (si no has visto el capítulo anterior, te recomiendo hacer clic [aquí](https://elerizoinformatico.github.io/2023/12/27/ecuaciones-diferenciales-i/)), estudiaremos la solución o función solución de una ecuación para así entender su comportamiento y propiedades.
+En este segundo capítulo del curso sobre **ecuaciones diferenciales** (si no has visto el capítulo anterior, te recomiendo hacer clic [aquí](https://elerizoinformatico.github.io/2023/12/26/ecuaciones-diferenciales-i/)), estudiaremos la solución o función solución de una ecuación para así entender su comportamiento y propiedades.
 
 Tener en cuenta que a lo largo de este curso trabajaremos con las ecuaciones diferenciales ordinarias (EDO).
 
