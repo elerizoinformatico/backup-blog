@@ -13,7 +13,7 @@ Tener en cuenta que a lo largo de este curso trabajaremos con las **ecuaciones d
 
 Una **solución de una ecuación diferencial** es una **función** $$f$$ definida en un intervalo $$I$$, que tiene al menos $$n$$ derivadas continuas en $$I$$ y que al sustituirlas en la ecuación diferencial ordinaria de n-ésimo orden, reducen la ecuación a una identidad.
 
-Supondremos que la solución $$f$$ es una función con valores reales, es decir, $$f \in \mathbb{R}$$.
+Supondremos que la solución $$f$$ es una función con valores reales, es decir, $$I \in \mathbb{R}$$.
 
 El intervalo de solución $$I$$ también es conocido como:
 * Intervalo de definición
@@ -29,7 +29,7 @@ Para verificar que una función dada es solución de una ecuación diferencial, 
 
 Ejemplo:
 
-Para la ecuación diferencial a continuación:
+Para la ecuación diferencial a continuación verificaremos que la función $$y$$ es solución:
 
 $$
 \begin{align}
@@ -37,12 +37,28 @@ $$
 \end{align}
 $$
 
-Verificaremos que la función:
-
 $$
 \begin{align}
 y &= \frac{x^4}{16}
 \end{align}
 $$
 
-Es solución.
+Lo primero que debemos hacer es derivar la función $$y$$ ya que en la ecuación tenemos una derivada de primer orden:
+
+$$
+\begin{align}
+\frac{dy}{dx} &= \frac{x^3}{4}
+\end{align}
+$$
+
+Luego, reemplazamos los valores ($$y$$ e $$y'$$) en la ecuación:
+
+$$
+\begin{align}
+\frac{x^3}{4} &= x\sqrt{\frac{x^4}{16}}\\
+\frac{x^3}{4} &= x\frac{x^2}{4}\\
+\frac{x^3}{4} &= \frac{x^3}{4}\\
+\end{align}
+$$
+
+Por lo tanto, podemos decir que la función $$y$$ es una solución de la ecuación diferencial.
