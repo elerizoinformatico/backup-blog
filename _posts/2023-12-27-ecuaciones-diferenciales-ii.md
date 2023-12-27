@@ -61,11 +61,11 @@ $$
 \end{align}
 $$
 
-Por lo tanto, podemos afirmar que la función $$y$$ es una solución de la ecuación diferencial.
+Por lo tanto, podemos afirmar que la función $$y$$ es una solución de la ecuación diferencial en cualquier intervalo.
 
 ## Solución trivial
 
-Si la función $f(x) = 0$$$ es una solución de una ecuación diferencial en un intervalo $$I$$, decimos que $$f$$ es una **solución trivial**.
+Si la función $$f(x) = 0$$ es una solución de una ecuación diferencial en un intervalo $$I$$, decimos que $$f$$ es una **solución trivial**.
 
 Tomando el ejemplo anterior tenemos:
 
@@ -98,8 +98,19 @@ $$
 \end{align}
 $$
 
-Por lo tanto, la función $$f(x) = 0$$ también es una solución de la ecuación diferencial.
+Por lo tanto, la función $$f(x) = 0$$ también es una solución de la ecuación diferencial. Esto quiere decir que una ecuación diferencial puede tener **más de una solución**.
 
 ## Ejercicios aplicados
 
-Hola.
+* $$2y' + y = 0$$. $$y = e^{-\frac{x}{2}}$$.
+* Amigos
+
+Si tienes dudas con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
