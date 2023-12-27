@@ -176,16 +176,16 @@ La notación de Leibniz tiene una ventaja sobre la notación prima y es que mues
 
 Clasifica las siguientes ecuaciones diferenciales de acuerdo a su tipo, orden, linealidad y homogeneidad:
 
-* $$4\displaystyle\frac{dy}{dx} + 20y = 5e^x$$
+* $$4\displaystyle\frac{dy}{dx} + 20y = 5e^x$$.
 * $$y''' - 6y'' + 12y' - 8y = 0$$.
-* $$\frac{d^2f}{dx^2} + \frac{d^2f}{dy^2} = 0$$.
-* $$L\frac{d^2q}{dt^2} + R\frac{dq}{dt} + \frac{1}{C}q = E(t)$$.
-* $$\left({dP\over dt}\right)^2 + 4P = t(t-1)$$.
-* $$\cos(y) \frac{dy}{dt} + 4t^2 = 0$$.
+* $$\displaystyle\frac{d^2f}{dx^2} + \displaystyle\frac{d^2f}{dy^2} = 0$$.
+* $$L\displaystyle\frac{d^2q}{dt^2} + R\displaystyle\frac{dq}{dt} + \displaystyle\frac{1}{C}q = E(t)$$.
+* $$\displaystyle\left({dP\over dt}\right)^2 + 4P = t(t-1)$$.
+* $$\cos(y) \displaystyle\frac{dy}{dt} + 4t^2 = 0$$.
 * $$(1-x)y'' -4xy'+5y = \cos(x)$$.
-* $$x\frac{d^3y}{dx^3} - \left({dy\over dx}\right)^4 + y = 0$$.
+* $$x\displaystyle\frac{d^3y}{dx^3} - \displaystyle\left({dy\over dx}\right)^4 + y = 0$$.
 * $$t^5y^{(4)} - t^3y'' + 6y = 0$$.
-* $$\frac{d^2R}{dt^2} = - \frac{k}{R^2}$$.
+* $$\displaystyle\frac{d^2R}{dt^2} = - \displaystyle\frac{k}{R^2}$$.
 
 Si tienes dudas con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
 
