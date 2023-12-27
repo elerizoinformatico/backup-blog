@@ -168,4 +168,12 @@ La notación de Leibniz tiene una ventaja sobre la notación prima y es que mues
 
 ## Ejercicios aplicados
 
-Pendiente.
+Clasifica las siguientes ecuaciones de acuerdo a su tipo, orden, linealidad y homogeneidad:
+
+1. $$4\frac{dy}{dx} + 20y = 5e^x$$.
+2. $$y''' - 6y'' + 12y' - 8y = 0$$.
+3. $$\frac{d^2f}{dx^2} + \frac{d^2f}{dy^2} = 0$$.
+4. $$L\frac{d^2q}{dt^2} + R\frac{dq}{dt} + \frac{1}{C}q = E(t)$$.
+5. $$\left({dP\over dt}\right)^2 + 4P = t(t-1)$$.
+6. $$\cos(y) \frac{dy}{dt} + 4t^2 = 0$$.
+7. $$(1-x)y'' -4xy'+5y = \cos(x)$$.
