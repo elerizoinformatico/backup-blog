@@ -180,11 +180,10 @@ Clasifica las siguientes ecuaciones diferenciales de acuerdo a su tipo, orden, l
 * $$y''' - 6y'' + 12y' - 8y = 0$$.
 * $$\dfrac{d^2f}{dx^2} + \dfrac{d^2f}{dy^2} = 0$$.
 * $$L\dfrac{d^2q}{dt^2} + R\dfrac{dq}{dt} + \dfrac{1}{C}q = E(t)$$.
-* $$\displaystyle\left({dP\over dt}\right)^2 + 4P = t(t-1)$$.
 * $$\left(\dfrac{dP}{dt}\right)^2 + 4P = t(t-1)$$.
 * $$\cos(y) \dfrac{dy}{dt} + 4t^2 = 0$$.
 * $$(1-x)y'' -4xy'+5y = \cos(x)$$.
-* $$x\dfrac{d^3y}{dx^3} - \displaystyle\left({dy\over dx}\right)^4 + y = 0$$.
+* $$x\dfrac{d^3y}{dx^3} - \left(\dfrac{dy}{dx}\right)^4 + y = 0$$.
 * $$t^5y^{(4)} - t^3y'' + 6y = 0$$.
 * $$\dfrac{d^2R}{dt^2} = - \dfrac{k}{R^2}$$.
 
