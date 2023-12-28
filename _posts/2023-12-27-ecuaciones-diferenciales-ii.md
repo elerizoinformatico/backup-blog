@@ -27,7 +27,7 @@ Y puede ser abierto $$(a,b)$$, cerrado $$[a,b]$$, infinito $$(a,+\infty)$$, etc.
 
 Para verificar que una función dada es solución de una ecuación diferencial, debemos realizar una sustitución en la ecuación y corroborar que en cada lado se produzca una igualdad para toda $$x$$ en el intervalo.
 
-**Ejemplo**:
+### **Ejemplo**
 
 Para la ecuación diferencial ordinaria a continuación verificaremos que la función $$y$$ es una solución:
 
@@ -63,13 +63,13 @@ $$
 
 Por lo tanto, podemos afirmar que la función $$y$$ es una solución de la ecuación diferencial en cualquier intervalo.
 
-**Otro ejemplo**:
+### **Otro ejemplo**
 
 Dada la ecuación diferencial:
 
 $$
 \begin{align}
-y'' - 4y' + 4y &= 0
+y'' + 2y' - 3y &= 0
 \end{align}
 $$
 
@@ -77,7 +77,7 @@ Verificaremos si la función a continuación es una solución:
 
 $$
 \begin{align}
-y &= c_1e^{2x} + c_2xe^{2x}
+y &= c_1e^{-3x} + c_2e^x
 \end{align}
 $$
 
@@ -85,18 +85,14 @@ En este caso debemos derivar la función dos veces ya que tenemos derivadas de p
 
 $$
 \begin{align}
-y' &= 2c_1e^{2x} + c_2(e^{2x} + 2xe^{2x})\\
-y' &= 2c_1e^{2x} + c_2e^{2x} + 2c_2xe^{2x}\\
-y' &= (2c_1 + c_2)e^{2x} + 2c_2xe^{2x}
+y' &= -3c_1e^{-3x} + c_2e^x
 \end{align}
 $$
 
 $$
 \begin{align}
-y'' &= 2(2c_1 + c_2)e^{2x} + 2c_2(e^{2x} + 2xe^{2x})\\
-y'' &= (4c_1 + 2c_2)e^{2x} + 2c_2e^{2x} + 4c_2xe^{2x}\\
-y'' &= (4c_1 + 2c_2 + 2c_2)e^{2x} + 4c_2xe^{2x}\\
-y'' &= (4c_1 + 4c_2)e^{2x} + 4c_2xe^{2x}\\
+y'' &= -3c_1(-3e^{-3x}) + c_2e^x\\
+y'' &= 9c_1e^{-3x} + c_2e^x
 \end{align}
 $$
 
@@ -104,20 +100,14 @@ Sustituimos los valores de $$y$$, $$y'$$ y $$y''$$:
 
 $$
 \begin{align}
-y'' &= (4c_1 + 4c_2)e^{2x} + 4c_2xe^{2x}
--4y' &= -4((2c_1 + c_2)e^{2x} + 2c_2xe^{2x})
-4y &= 0 4(c_1e^{2x} + c_2xe^{2x})
-\end{align}
-$$
-
-$$
-\begin{align}
-(4c_1 + 4c_2)e^{2x} + 4c_2xe^{2x} - 4((2c_1 + c_2)e^{2x} + 2c_2xe^{2x}) + 4(c_1e^{2x} + c_2xe^{2x}) &= 0\\
-(4c_1 + 4c_2)e^{2x} + 4c_2xe^{2x} - (8c_1 + 4c_2)e^{2x} - 8c_2xe^{2x} + 4c_1e^{2x} + 4c_2xe^{2x} &= 0\\
-(4c_1 + 4c_2 - 8c_1 - 4c_2 + 4c_1)e^{2x} + (4c_2 - 8c_2 + 4c_2)xe^{2x} &= 0\\
+9c_1e^{-3x} + c_2e^x + 2(-3c_1e^{-3x} + c_2e^x) - 3(c_1e^{-3x} + c_2e^x) &= 0\\
+9c_1e^{-3x} + c_2e^x - 6c_1e^{-3x} + 2c_2e^x - 3c_1e^{-3x} - 3c_2e^x &= 0\\
+(9c_1 - 6c_1 - 3c_1)e^{-3x} + (c_2 + 2c_2 - 3c_2)e^x &= 0\\
 0 &= 0
 \end{align}
 $$
+
+Por lo tanto, la función $$y$$ es una solución de la ecuación diferencial.
 
 ## Solución trivial
 
