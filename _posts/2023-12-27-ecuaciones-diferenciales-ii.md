@@ -104,6 +104,14 @@ Sustituimos los valores de $$y$$, $$y'$$ y $$y''$$:
 
 $$
 \begin{align}
+y'' &= (4c_1 + 4c_2)e^{2x} + 4c_2xe^{2x}
+-4y' &= -4((2c_1 + c_2)e^{2x} + 2c_2xe^{2x})
+4y &= 0 4(c_1e^{2x} + c_2xe^{2x})
+\end{align}
+$$
+
+$$
+\begin{align}
 (4c_1 + 4c_2)e^{2x} + 4c_2xe^{2x} - 4((2c_1 + c_2)e^{2x} + 2c_2xe^{2x}) + 4(c_1e^{2x} + c_2xe^{2x}) &= 0\\
 (4c_1 + 4c_2)e^{2x} + 4c_2xe^{2x} - (8c_1 + 4c_2)e^{2x} - 8c_2xe^{2x} + 4c_1e^{2x} + 4c_2xe^{2x} &= 0\\
 (4c_1 + 4c_2 - 8c_1 - 4c_2 + 4c_1)e^{2x} + (4c_2 - 8c_2 + 4c_2)xe^{2x} &= 0\\
@@ -151,7 +159,7 @@ Por lo tanto, la función $$f(x) = 0$$ también es una solución de la ecuación
 ## Ejercicios aplicados
 
 * $$2y' + y = 0$$ ; $$y = e^{-\frac{x}{2}}$$
-* $$\displaystyle\frac{dy}{dt} + 20y = 24$$ ; $$y = \displaystyle\frac{6}{5} - \displaystyle\frac{6}{5}e^{-20t}$$
+* $$\dfrac{dy}{dt} + 20y = 24$$ ; $$y = \dfrac{6}{5} - \dfrac{6}{5}e^{-20t}$$
 * $$y'' - 2y' + y = 0$$ ; $$y = xe^x$$
 * $$y'' - 6y' + 13y = 0$$ ; $$y = e^{3x}\cos(2x)$$
 * $$\displaystyle\frac{dp}{dt} = p(1-p)$$ ; $$p = \displaystyle\frac{Ce^t}{1 + Ce^t}$$
